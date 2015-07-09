@@ -146,7 +146,6 @@ public class SjonSchema {
 			schemaText.append(";");
 			schemaText.append("\n");
 		}
-		
 		return schemaText.toString();
 	}
 }

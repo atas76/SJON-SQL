@@ -1,0 +1,318 @@
+{name:Chelsea,fullName:Chelsea,nativeName:Chelsea,oddsName:Chelsea,publicName:Chelsea,nation:England}
+{name:Manchester City,fullName:Manchester City,nativeName:Manchester City,oddsName:Man City,publicName:Manchester City,nation:England}
+{name:Arsenal,fullName:Arsenal,nativeName:Arsenal,oddsName:Arsenal,publicName:Arsenal,nation:England}
+{name:Manchester United,fullName:Manchester United,nativeName:Manchester United,oddsName:Man Utd,publicName:Manchester United,nation:England}
+{name:Tottenham,fullName:Tottenham Hotspur,nativeName:Tottenham Hotspur,oddsName:Tottenham,publicName:Tottenham,nation:England}
+{name:Liverpool,fullName:Liverpool,nativeName:Liverpool,oddsName:Liverpool,publicName:Liverpool,nation:England}
+{name:Southampton,fullName:Southampton,nativeName:Southampton,oddsName:Southampton,publicName:Southampton,nation:England}
+{name:Swansea,fullName:Swansea City,nativeName:Swansea City,oddsName:Swansea,publicName:Swansea,nation:England}
+{name:Stoke,fullName:Stoke City,nativeName:Stoke City,oddsName:Stoke,publicName:Stoke,nation:England}
+{name:Crystal Palace,fullName:Crystal Palace,nativeName:Crystal Palace,oddsName:Crystal Palace,publicName:Crystal Palace,nation:England}
+{name:Everton,fullName:Everton,nativeName:Everton,oddsName:Everton,publicName:Everton,nation:England}
+{name:West Ham,fullName:West Ham United,nativeName:West Ham United,oddsName:West Ham,publicName:West Ham,nation:England}
+{name:WBA,fullName:West Bromwich Albion,nativeName:West Bromwich Albion,oddsName:West Brom,publicName:WBA,nation:England}
+{name:Leicester,fullName:Leicester City,nativeName:Leicester City,oddsName:Leicester,publicName:Leicester,nation:England}
+{name:Newcastle,fullName:Newcastle United,nativeName:Newcastle United,oddsName:Newcastle,publicName:Newcastle,nation:England}
+{name:Sunderland,fullName:Sunderland,nativeName:Sunderland,oddsName:Sunderland,publicName:Sunderland,nation:England}
+{name:Aston Villa,fullName:Aston Villa,nativeName:Aston Villa,oddsName:Aston Villa,publicName:Aston Villa,nation:England}
+{name:Hull,fullName:Hull City,nativeName:Hull City,oddsName:Hull,publicName:Hull,nation:England}
+{name:Burnley,fullName:Burnley,nativeName:Burnley,oddsName:Burnley,publicName:Burnley,nation:England}
+{name:QPR,fullName:Queens Park Rangers,nativeName:Queens Park Rangers,oddsName:QPR,publicName:QPR,nation:England}
+{name:Bournemouth,fullName:Bournemouth,nativeName:AFC Bournemouth,oddsName:Bournemouth,publicName:Bournemouth,nation:England}
+{name:Watford,fullName:Watford,nativeName:Watford,oddsName:Watford,publicName:Watford,nation:England}
+{name:Norwich,fullName:Norwich City,nativeName:Norwich City,oddsName:Norwich,publicName:Norwich,nation:England}
+{name:Middlesbrough,fullName:Middlesbrough,nativeName:Middlesbrough,oddsName:Middlesbrough,publicName:Middlesbrough,nation:England}
+{name:Brentford,fullName:Brentford,nativeName:Brentford,oddsName:Brentford,publicName:Brentford,nation:England}
+{name:Ipswich,fullName:Ipswich Town,nativeName:Ipswich Town,oddsName:Ipswich,publicName:Ipswich,nation:England}
+{name:Wolves,fullName:Wolverhampton Wanderers,nativeName:Wolverhampton Wanderers,oddsName:Wolverhampton,publicName:Wolves,nation:England}
+{name:Derby,fullName:Derby County,nativeName:Derby County,oddsName:Derby,publicName:Derby,nation:England}
+{name:Blackburn,fullName:Blackburn Rovers,nativeName:Blackburn Rovers,oddsName:Blackburn,publicName:Blackburn,nation:England}
+{name:Birmingham,fullName:Birmingham City,nativeName:Birmingham City,oddsName:Birmingham,publicName:Birmingham,nation:England}
+{name:Cardiff,fullName:Cardiff City,nativeName:Cardiff City,oddsName:Cardiff,publicName:Cardiff,nation:England}
+{name:Charlton,fullName:Charlton Athletic,nativeName:Charlton Athletic,oddsName:Charlton,publicName:Charlton,nation:England}
+{name:Sheffield Wednesday,fullName:Sheffield Wednesday,nativeName:Sheffield Wednesday,oddsName:Sheff Wed,publicName:Sheffield Wednesday,nation:England}
+{name:Nottingham,fullName:Nottingham Forest,nativeName:Nottingham Forest,oddsName:Nottm Forest,publicName:Nottingham Forest,nation:England}
+{name:Leeds,fullName:Leeds United,nativeName:Leeds United,oddsName:Leeds,publicName:Leeds,nation:England}
+{name:Huddersfield,fullName:Huddersfield Town,nativeName:Huddersfield Town,oddsName:Huddersfield,publicName:Huddersfield,nation:England}
+{name:Fulham,fullName:Fulham,nativeName:Fulham,oddsName:Fulham,publicName:Fulham,nation:England}
+{name:Bolton,fullName:Bolton Wanderers,nativeName:Bolton Wanderers,oddsName:Bolton,publicName:Bolton,nation:England}
+{name:Reading,fullName:Reading,nativeName:Reading,oddsName:Reading,publicName:Reading,nation:England}
+{name:Brighton,fullName:Brighton and Hove Albion,nativeName:Brighton and Hove Albion,oddsName:Brighton,publicName:Brighton,nation:England}
+{name:Rotherham,fullName:Rotherham United,nativeName:Rotherham United,oddsName:Rotherham,publicName:Rotherham,nation:England}
+{name:Millwall,fullName:Millwall,nativeName:Millwall,oddsName:Millwall,publicName:Millwall,nation:England}
+{name:Wigan,fullName:Wigan Athletic,nativeName:Wigan Athletic,oddsName:Wigan,publicName:Wigan,nation:England}
+{name:Blackpool,fullName:Blackpool,nativeName:Blackpool,oddsName:Blackpool,publicName:Blackpool,nation:England}
+{name:Doncaster,fullName:Doncaster Rovers,nativeName:Doncaster Rovers,oddsName:Doncaster,publicName:Doncaster,nation:England}
+{name:Barnsley,fullName:Barnsley,nativeName:Barnsley,oddsName:Barnsley,publicName:Barnsley,nation:England}
+{name:Yeovil,fullName:Yeovil Town,nativeName:Yeovil Town,oddsName:Yeovil,publicName:Yeovil,nation:England}
+{name:Bristol City,fullName:Bristol City,nativeName:Bristol City,oddsName:Bristol City,publicName:Bristol City,nation:England}
+{name:Peterborough,fullName:Peterborough United,nativeName:Peterborough United,oddsName:Peterborough,publicName:Peterborough,nation:England}
+{name:Portsmouth,fullName:Portsmouth,nativeName:Portsmouth,oddsName:Portsmouth,publicName:Portsmouth,nation:England}
+{name:Coventry,fullName:Coventry City,nativeName:Coventry City,oddsName:Coventry,publicName:Coventry,nation:England}
+{name:Preston,fullName:Preston North End,nativeName:Preston North End,oddsName:Preston,publicName:Preston,nation:England}
+{name:Sheffield United,fullName:Sheffield United,nativeName:Sheffield United,oddsName:Sheff Utd,publicName:Sheffield United,nation:England}
+{name:Scunthorpe,fullName:Scunthorpe United,nativeName:Scunthorpe United,oddsName:Scunthorpe,publicName:Scunthorpe,nation:England}
+{name:Plymouth,fullName:Plymouth Argyle,nativeName:Plymouth Argyle,oddsName:Plymouth,publicName:Plymouth,nation:England}
+{name:Bayern,fullName:Bayern Munich,nativeName:Bayern München,oddsName:Bayern Munich,publicName:Bayern Munich,nation:Germany}
+{name:Wolfsburg,fullName:VfL Wolfsburg,nativeName:Wolfsburg,oddsName:Wolfsburg,publicName:Wolfsburg,nation:Germany}
+{name:Gladbach,fullName:Borussia Mönchengladbach,nativeName:Borussia Mönchengladbach,oddsName:Moenchengladbach,publicName:Borussia Monchengladbach,nation:Germany}
+{name:Leverkusen,fullName:Bayer Leverkusen,nativeName:Bayer Leverkusen,oddsName:Bayer Leverkusen,publicName:Leverkusen,nation:Germany}
+{name:Augsburg,fullName:FC Augsburg,nativeName:Augsburg,oddsName:Augsburg,publicName:FC Augsburg,nation:Germany}
+{name:Schalke,fullName:Schalke 04,nativeName:Schalke 04,oddsName:Schalke,publicName:FC Schalke 04,nation:Germany}
+{name:Dortmund,fullName:Borussia Dortmund,nativeName:Borussia Dortmund,oddsName:Borussia Dortmund,publicName:Dortmund,nation:Germany}
+{name:Hoffenheim,fullName:1899 Hoffenheim,nativeName:Hoffenheim,oddsName:Hoffenheim,publicName:Hoffenheim,nation:Germany}
+{name:Eintracht Frankfurt,fullName:Eintracht Frankfurt,nativeName:Eintracht Frankfurt,oddsName:Frankfurt,publicName:Eintracht Frankfurt,nation:Germany}
+{name:Werder Bremen,fullName:Werder Bremen,nativeName:Werder Bremen,oddsName:Werder Bremen,publicName:Werder Bremen,nation:Germany}
+{name:Mainz,fullName:FSV Mainz 05,nativeName:Mainz 05,oddsName:Mainz,publicName:Mainz,nation:Germany}
+{name:Koln,fullName:1. FC Köln,nativeName:Köln,oddsName:Koln,publicName:FC Koln,nation:Germany}
+{name:Hannover,fullName:Hannover 96,nativeName:Hannover 96,oddsName:Hannover,publicName:Hannover 96,nation:Germany}
+{name:Stuttgart,fullName:VfB Stuttgart,nativeName:Stuttgart,oddsName:Stuttgart,publicName:VfB Stuttgart,nation:Germany}
+{name:Hertha,fullName:Hertha BSC,nativeName:Hertha BSC,oddsName:Hertha Berlin,publicName:Hertha Berlin,nation:Germany}
+{name:Hamburger,fullName:Hamburger SV,nativeName:Hamburger SV,oddsName:Hamburg,publicName:Hamburg,nation:Germany}
+{name:Freiburg,fullName:SC Freiburg,nativeName:Freiburg,oddsName:Freiburg,publicName:Freiburg,nation:Germany}
+{name:Paderborn,fullName:SC Paderborn 07,nativeName:Paderborn,oddsName:Paderborn,publicName:Paderborn,nation:Germany}
+{name:Ingolstadt,fullName:FC Ingolstadt 04,nativeName:Ingolstadt,oddsName:Ingolstadt,publicName:FC Ingolstadt,nation:Germany}
+{name:Darmstadt,fullName:SV Darmstadt 98,nativeName:Darmstadt 98,oddsName:Darmstadt,publicName:Darmstadt,nation:Germany}
+{name:Karlsruher,fullName:Karlsruher SC,nativeName:Karlsruher SC,oddsName:Karlsruhe,publicName:Karlsruher,nation:Germany}
+{name:Kaiserslautern,fullName:1. FC Kaiserslautern,nativeName:Kaiserslautern,oddsName:Kaiserslautern,publicName:FC Kaiserslautern,nation:Germany}
+{name:Leipzig,fullName:RB Leipzig,nativeName:RB Leipzig,oddsName:Leipzig,publicName:Leipzig,nation:Germany}
+{name:Braunschweig,fullName:Eintracht Braunschweig,nativeName:Eintracht Braunschweig,oddsName:Braunschweig,publicName:Eintracht Braunschweig,nation:Germany}
+{name:Union Berlin,fullName:1. FC Union Berlin,nativeName:Union Berlin,oddsName:Union Berlin,publicName:FC Union Berlin,nation:Germany}
+{name:Heidenheim,fullName:1. FC Heidenheim,nativeName:Heidenheim,oddsName:Heidenheim,publicName:FC Heidenheim,nation:Germany}
+{name:Nurnberg,fullName:1. FC Nürnberg,nativeName:Nürnberg,oddsName:Nurnberg,publicName:FC Nurnberg,nation:Germany}
+{name:Dusseldorf,fullName:Fortuna Düsseldorf,nativeName:Fortuna Düsseldorf,oddsName:Fortuna Dusseldorf,publicName:Fortuna Dusseldorf,nation:Germany}
+{name:Bochum,fullName:VfL Bochum,nativeName:Bochum,oddsName:Bochum,publicName:VfL Bochum,nation:Germany}
+{name:Sandhausen,fullName:SV Sandhausen,nativeName:Sandhausen,oddsName:Sandhausen,publicName:Sandhausen,nation:Germany}
+{name:FSV Frankfurt,fullName:FSV Frankfurt,nativeName:FSV Frankfurt,oddsName:FSV Frankfurt,publicName:FSV Frankfurt,nation:Germany}
+{name:SpVgg Greuther Furth,fullName:SpVgg Greuther Fürth,nativeName:Greuther Fürth,oddsName:Greuther Furth,publicName:Greuther Furth,nation:Germany}
+{name:St. Pauli,fullName:FC St. Pauli,nativeName:St. Pauli,oddsName:St Pauli,publicName:FC St. Pauli,nation:Germany}
+{name:1860 Munich,fullName:1860 München,nativeName:1860 München,oddsName:1860 Munich,publicName:1860 Munich,nation:Germany}
+{name:Aue,fullName:Erzgebirge Aue,nativeName:Erzgebirge Aue,oddsName:Aue Erzgebirge,publicName:Erzgebirge Aue,nation:Germany}
+{name:Aalen,fullName:VfR Aalen,nativeName:Aalen,oddsName:Aalen,publicName:VfR Aalen,nation:Germany}
+{name:Bielefeld,fullName:Arminia Bielefeld,nativeName:Arminia Bielefeld,oddsName:Arminia Bielefeld,publicName:Arminia Bielefeld,nation:Germany}
+{name:Dresden,fullName:Dynamo Dresden,nativeName:Dynamo Dresden,oddsName:Dynamo Dresden,publicName:Dynamo Dresden,nation:Germany}
+{name:Cottbus,fullName:Energie Cottbus,nativeName:Energie Cottbus,oddsName:Cottbus,publicName:Energie Cottbus,nation:Germany}
+{name:Duisburg,fullName:MSV Duisburg,nativeName:MSV Duisburg,oddsName:Duisburg,publicName:Duisburg,nation:Germany}
+{name:Jahn Regensburg,fullName:Jahn Regensburg,nativeName:Jahn Regensburg,oddsName:Jahn Regensburg,publicName:Jahn Regensburg,nation:Germany}
+{name:Alemannia Aachen,fullName:Alemannia Aachen,nativeName:Alemannia Aachen,oddsName:Alemannia Aachen,publicName:Alemannia Aachen,nation:Germany}
+{name:Hansa Rostock,fullName:Hansa Rostock,nativeName:Hansa Rostock,oddsName:Hansa,publicName:Hansa Rostock,nation:Germany}
+{name:Osnabruck,fullName:VfL Osnabrück,nativeName:Osnabrück,oddsName:Osnabruck,publicName:VfL Osnabruck,nation:Germany}
+{name:Oberhausen,fullName:Rot-Weiß Oberhausen,nativeName:Rot-Weiß Oberhausen,oddsName:Oberhausen,publicName:Oberhausen,nation:Germany}
+{name:Koblenz,fullName:TuS Koblenz,nativeName:Koblenz,oddsName:Koblenz,publicName:Koblenz,nation:Germany}
+{name:Ahlen,fullName:Rot Weiss Ahlen,nativeName:Rot Weiss Ahlen,oddsName:Ahlen,publicName:Rot Weiss Ahlen,nation:Germany}
+{name:Wehen Wiesbaden,fullName:SV Wehen Wiesbaden,nativeName:Wehen Wiesbaden,oddsName:Wehen Wiesbaden,publicName:Wehen Wiesbaden,nation:Germany}
+{name:Barcelona,fullName:Barcelona,nativeName:Barcelona,oddsName:Barcelona,publicName:Barcelona,nation:Spain}
+{name:Real Madrid,fullName:Real Madrid,nativeName:Real Madrid,oddsName:Real Madrid,publicName:Real Madrid,nation:Spain}
+{name:Atletico Madrid,fullName:Atlético Madrid,nativeName:Atlético Madrid,oddsName:Atletico Madrid,publicName:Atletico Madrid,nation:Spain}
+{name:Valencia,fullName:Valencia,nativeName:Valencia,oddsName:Valencia,publicName:Valencia,nation:Spain}
+{name:Sevilla,fullName:Sevilla,nativeName:Sevilla,oddsName:Sevilla,publicName:Sevilla,nation:Spain}
+{name:Villarreal,fullName:Villarreal,nativeName:Villarreal,oddsName:Villarreal,publicName:Villarreal,nation:Spain}
+{name:Athletic Bilbao,fullName:Athletic Club,nativeName:Athletic Club,oddsName:Athletic Bilbao,publicName:Athletic Bilbao,nation:Spain}
+{name:Celta Vigo,fullName:Celta de Vigo,nativeName:Celta de Vigo,oddsName:Celta,publicName:Celta Vigo,nation:Spain}
+{name:Malaga,fullName:Málaga,nativeName:Málaga,oddsName:Malaga,publicName:Malaga,nation:Spain}
+{name:Espanyol,fullName:Espanyol,nativeName:Espanyol,oddsName:Espanyol,publicName:Espanyol,nation:Spain}
+{name:Rayo Vallecano,fullName:Rayo Vallecano,nativeName:Rayo Vallecano,oddsName:Rayo,publicName:Rayo Vallecano,nation:Spain}
+{name:Real Sociedad,fullName:Real Sociedad,nativeName:Real Sociedad,oddsName:Real Sociedad,publicName:Real Sociedad,nation:Spain}
+{name:Elche,fullName:Elche,nativeName:Elche,oddsName:Elche,publicName:Elche,nation:Spain}
+{name:Levante,fullName:Levante,nativeName:Levante,oddsName:Levante,publicName:Levante,nation:Spain}
+{name:Getafe,fullName:Getafe,nativeName:Getafe,oddsName:Getafe,publicName:Getafe,nation:Spain}
+{name:La Corunia,fullName:Deportivo La Coruña,nativeName:Deportivo La Coruña,oddsName:Deportivo,publicName:Deportivo la Coruna,nation:Spain}
+{name:Granada,fullName:Granada,nativeName:Granada,oddsName:Granada,publicName:Granada,nation:Spain}
+{name:Eibar,fullName:Eibar,nativeName:Eibar,oddsName:Eibar,publicName:Eibar,nation:Spain}
+{name:Almeria,fullName:Almería,nativeName:Almería,oddsName:Almeria,publicName:Almeria,nation:Spain}
+{name:Cordoba,fullName:Córdoba,nativeName:Córdoba,oddsName:Cordoba,publicName:Cordoba,nation:Spain}
+{name:Real Betis,fullName:Real Betis,nativeName:Real Betis,oddsName:Betis,publicName:Real Betis,nation:Spain}
+{name:Gijon,fullName:Sporting de Gijón,nativeName:Sporting Gijón,oddsName:Sporting Gijon,publicName:Sporting Gijon,nation:Spain}
+{name:Girona,fullName:Girona,nativeName:Girona,oddsName:Girona,publicName:Girona,nation:Spain}
+{name:Las Palmas,fullName:Las Palmas,nativeName:Las Palmas,oddsName:Las Palmas,publicName:Las Palmas,nation:Spain}
+{name:Valladolid,fullName:Real Valladolid,nativeName:Real Valladolid,oddsName:Valladolid,publicName:Real Valladolid,nation:Spain}
+{name:Zaragoza,fullName:Real Zaragoza,nativeName:Real Zaragoza,oddsName:Real Zaragoza,publicName:Real Zaragoza,nation:Spain}
+{name:Ponferradina,fullName:Ponferradina,nativeName:Ponferradina,oddsName:Ponferradina,publicName:Ponferradina,nation:Spain}
+{name:Mirandes,fullName:Mirandés,nativeName:Mirandés,oddsName:Mirandes,publicName:Mirandes,nation:Spain}
+{name:Llagostera,fullName:Llagostera,nativeName:Llagostera,oddsName:Llagostera,publicName:Llagostera,nation:Spain}
+{name:Leganes,fullName:Leganés,nativeName:Leganés,oddsName:Leganes,publicName:Leganes,nation:Spain}
+{name:Alcorcon,fullName:Alcorcón,nativeName:Alcorcón,oddsName:Alcorcon,publicName:Alcorcon,nation:Spain}
+{name:Numancia,fullName:Numancia,nativeName:Numancia,oddsName:Numancia,publicName:Numancia,nation:Spain}
+{name:Alaves,fullName:Deportivo Alavés,nativeName:Deportivo Alavés,oddsName:Deportivo Alaves,publicName:Deportivo Alaves,nation:Spain}
+{name:Albacete,fullName:Albacete,nativeName:Albacete,oddsName:Albacete,publicName:Albacete,nation:Spain}
+{name:Lugo,fullName:Lugo,nativeName:Lugo,oddsName:Lugo,publicName:Lugo,nation:Spain}
+{name:Mallorca,fullName:Mallorca,nativeName:Mallorca,oddsName:Mallorca,publicName:Mallorca,nation:Spain}
+{name:Tenerife,fullName:Tenerife,nativeName:Tenerife,oddsName:Tenerife,publicName:Tenerife,nation:Spain}
+{name:Osasuna,fullName:Osasuna,nativeName:Osasuna,oddsName:Osasuna,publicName:Osasuna,nation:Spain}
+{name:Racing Santander,fullName:Racing Santander,nativeName:Racing Santander,oddsName:Santander,publicName:Racing Santander,nation:Spain}
+{name:Recreativo,fullName:Recreativo Huelva,nativeName:Recreativo Huelva,oddsName:Recreativo,publicName:Recreativo Huelva,nation:Spain}
+{name:Sabadell,fullName:Sabadell,nativeName:Sabadell,oddsName:Sabadell,publicName:Sabadell,nation:Spain}
+{name:Barcelona B,fullName:Barcelona B,nativeName:Barcelona B,oddsName:Barcelona B,publicName:Barcelona B,nation:Spain}
+{name:Real Madrid Castilla,fullName:Real Madrid Castilla,nativeName:Real Madrid Castilla,oddsName:Real Madrid B,publicName:Real Madrid Castilla,nation:Spain}
+{name:Jaen,fullName:Jaén,nativeName:Jaén,oddsName:Jaen,publicName:Jaen,nation:Spain}
+{name:Hercules,fullName:Hércules,nativeName:Hércules,oddsName:Hercules,publicName:Hercules,nation:Spain}
+{name:Guadalajara,fullName:Guadalajara,nativeName:Guadalajara,oddsName:Guadalajara,publicName:Guadalajara,nation:Spain}
+{name:Huesca,fullName:Huesca,nativeName:Huesca,oddsName:Huesca,publicName:Huesca,nation:Spain}
+{name:Xerez,fullName:Xerez,nativeName:Xerez,oddsName:Xerez,publicName:Xerez,nation:Spain}
+{name:Villarreal B,fullName:Villarreal B,nativeName:Villarreal B,oddsName:Villarreal B,publicName:Villarreal B,nation:Spain}
+{name:Cartagena,fullName:Cartagena,nativeName:Cartagena,oddsName:Cartagena,publicName:Cartagena,nation:Spain}
+{name:Alcoyano,fullName:Alcoyano,nativeName:Alcoyano,oddsName:Alcoyano,publicName:Alcoyano,nation:Spain}
+{name:Gimnastic,fullName:Gimnàstic Tarragona,nativeName:Gimnàstic,oddsName:Gimnastic,publicName:Gimnastic,nation:Spain}
+{name:Salamanca,fullName:Salamanca,nativeName:Salamanca,oddsName:Salamanca,publicName:Salamanca,nation:Spain}
+{name:Cadiz,fullName:Cádiz,nativeName:Cádiz,oddsName:Cadiz,publicName:Cadiz,nation:Spain}
+{name:Murcia,fullName:Real Murcia,nativeName:Real Murcia,oddsName:Murcia,publicName:Real Murcia,nation:Spain}
+{name:Real Union,fullName:Real Unión,nativeName:Real Unión,oddsName:Real Union,publicName:Real Union,nation:Spain}
+{name:Castellon,fullName:Castellón,nativeName:Castellón,oddsName:Castellon,publicName:Castellon,nation:Spain}
+{name:Alicante,fullName:Alicante,nativeName:Alicante,oddsName:Alicante,publicName:Alicante,nation:Spain}
+{name:Sevilla Atletico,fullName:Sevilla Atlético,nativeName:Sevilla Atlético,oddsName:Sevilla B,publicName:Sevilla Atletico,nation:Spain}
+{name:Juventus,fullName:Juventus,nativeName:Juventus,oddsName:Juventus,publicName:Juventus,nation:Italy}
+{name:Roma,fullName:Roma,nativeName:Roma,oddsName:Roma,publicName:Roma,nation:Italy}
+{name:Lazio,fullName:Lazio,nativeName:Lazio,oddsName:Lazio,publicName:Lazio,nation:Italy}
+{name:Fiorentina,fullName:Fiorentina,nativeName:Fiorentina,oddsName:Fiorentina,publicName:Fiorentina,nation:Italy}
+{name:Napoli,fullName:Napoli,nativeName:Napoli,oddsName:Napoli,publicName:Napoli,nation:Italy}
+{name:Genoa,fullName:Genoa,nativeName:Genoa,oddsName:Genoa,publicName:Genoa,nation:Italy}
+{name:Sampdoria,fullName:Sampdoria,nativeName:Sampdoria,oddsName:Sampdoria,publicName:Sampdoria,nation:Italy}
+{name:Inter Milan,fullName:Internazionale,nativeName:Internazionale,oddsName:Inter,publicName:Inter,nation:Italy}
+{name:Torino,fullName:Torino,nativeName:Torino,oddsName:Torino,publicName:Torino,nation:Italy}
+{name:Milan,fullName:AC Milan,nativeName:Milan,oddsName:Milan,publicName:Milan,nation:Italy}
+{name:Palermo,fullName:Palermo,nativeName:Palermo,oddsName:Palermo,publicName:Palermo,nation:Italy}
+{name:Sassuolo,fullName:Sassuolo,nativeName:Sassuolo,oddsName:Sassuolo,publicName:Sassuolo,nation:Italy}
+{name:Verona,fullName:Hellas Verona,nativeName:Verona,oddsName:Verona,publicName:Verona,nation:Italy}
+{name:Chievo,fullName:Chievo,nativeName:Chievo,oddsName:Chievo,publicName:Chievo,nation:Italy}
+{name:Empoli,fullName:Empoli,nativeName:Empoli,oddsName:Empoli,publicName:Empoli,nation:Italy}
+{name:Udinese,fullName:Udinese,nativeName:Udinese,oddsName:Udinese,publicName:Udinese,nation:Italy}
+{name:Atalanta,fullName:Atalanta,nativeName:Atalanta,oddsName:Atalanta,publicName:Atalanta,nation:Italy}
+{name:Cagliari,fullName:Cagliari,nativeName:Cagliari,oddsName:Cagliari,publicName:Cagliari,nation:Italy}
+{name:Cesena,fullName:Cesena,nativeName:Cesena,oddsName:Cesena,publicName:Cesena,nation:Italy}
+{name:Parma,fullName:Parma,nativeName:Parma,oddsName:Parma,publicName:Parma,nation:Italy}
+{name:Carpi,fullName:Carpi,nativeName:Carpi,oddsName:Carpi,publicName:Carpi,nation:Italy}
+{name:Frosinone,fullName:Frosinone,nativeName:Frosinone,oddsName:Frosinone,publicName:Frosinone,nation:Italy}
+{name:Vicenza,fullName:Vicenza,nativeName:Vicenza,oddsName:Vicenza,publicName:Vicenza,nation:Italy}
+{name:Bologna,fullName:Bologna,nativeName:Bologna,oddsName:Bologna,publicName:Bologna,nation:Italy}
+{name:Spezia,fullName:Spezia,nativeName:Spezia,oddsName:Spezia,publicName:Spezia,nation:Italy}
+{name:Perugia,fullName:Perugia,nativeName:Perugia,oddsName:Perugia,publicName:Perugia,nation:Italy}
+{name:Pescara,fullName:Pescara,nativeName:Pescara,oddsName:Pescara,publicName:Pescara,nation:Italy}
+{name:Avellino,fullName:Avellino,nativeName:Avellino,oddsName:Avellino,publicName:Avellino,nation:Italy}
+{name:Livorno,fullName:Livorno,nativeName:Livorno,oddsName:Livorno,publicName:Livorno,nation:Italy}
+{name:Bari,fullName:Bari,nativeName:Bari,oddsName:Bari,publicName:Bari,nation:Italy}
+{name:Trapani,fullName:Trapani,nativeName:Trapani,oddsName:Trapani,publicName:Trapani,nation:Italy}
+{name:Ternana,fullName:Ternana,nativeName:Ternana,oddsName:Ternana,publicName:Ternana,nation:Italy}
+{name:Latina,fullName:Latina,nativeName:Latina,oddsName:Latina,publicName:Latina,nation:Italy}
+{name:Virtus Lanciano,fullName:Virtus Lanciano,nativeName:Virtus Lanciano,oddsName:Lanciano,publicName:Virtus Lanciano,nation:Italy}
+{name:Catania,fullName:Catania,nativeName:Catania,oddsName:Catania,publicName:Catania,nation:Italy}
+{name:Pro Vercelli,fullName:Pro Vercelli,nativeName:Pro Vercelli,oddsName:Pro Vercelli,publicName:Pro Vercelli,nation:Italy}
+{name:Crotone,fullName:Crotone,nativeName:Crotone,oddsName:Crotone,publicName:Crotone,nation:Italy}
+{name:Modena,fullName:Modena,nativeName:Modena,oddsName:Modena,publicName:Modena,nation:Italy}
+{name:Virtus Entella,fullName:Virtus Entella,nativeName:Virtus Entella,oddsName:Entella,publicName:Virtus Entella,nation:Italy}
+{name:Cittadella,fullName:Cittadella,nativeName:Cittadella,oddsName:Cittadella,publicName:Cittadella,nation:Italy}
+{name:Brescia,fullName:Brescia,nativeName:Brescia,oddsName:Brescia,publicName:Brescia,nation:Italy}
+{name:Varese,fullName:Varese,nativeName:Varese,oddsName:Varese,publicName:Varese,nation:Italy}
+{name:Novara,fullName:Novara,nativeName:Novara,oddsName:Novara,publicName:Novara,nation:Italy}
+{name:Padova,fullName:Padova,nativeName:Padova,oddsName:Padova,publicName:Padova,nation:Italy}
+{name:Reggina,fullName:Reggina,nativeName:Reggina,oddsName:Reggina,publicName:Reggina,nation:Italy}
+{name:Juve Stabia,fullName:Juve Stabia,nativeName:Juve Stabia,oddsName:Juve Stabia,publicName:Juve Stabia,nation:Italy}
+{name:Ascoli,fullName:Ascoli,nativeName:Ascoli,oddsName:Ascoli,publicName:Ascoli,nation:Italy}
+{name:Grosseto,fullName:Grosseto,nativeName:Grosseto,oddsName:Grosseto,publicName:Grosseto,nation:Italy}
+{name:Nocerina,fullName:Nocerina,nativeName:Nocerina,oddsName:Nocerina,publicName:Nocerina,nation:Italy}
+{name:Gubbio,fullName:Gubbio,nativeName:Gubbio,oddsName:Gubbio,publicName:Gubbio,nation:Italy}
+{name:AlbinoLeffe,fullName:AlbinoLeffe,nativeName:AlbinoLeffe,oddsName:Albinoleffe,publicName:AlbinoLeffe,nation:Italy}
+{name:Piacenza,fullName:Piacenza,nativeName:Piacenza,oddsName:Piacenza,publicName:Piacenza,nation:Italy}
+{name:Triestina,fullName:Triestina,nativeName:Triestina,oddsName:Triestina,publicName:Triestina,nation:Italy}
+{name:Portogruaro,fullName:Portogruaro,nativeName:Portogruaro,oddsName:Portogruaro,publicName:Portogruaro,nation:Italy}
+{name:Ancona,fullName:Ancona,nativeName:Ancona,oddsName:Ancona,publicName:Ancona,nation:Italy}
+{name:Mantova,fullName:Mantova,nativeName:Mantova,oddsName:Mantova,publicName:Mantova,nation:Italy}
+{name:Gallipoli,fullName:Gallipoli,nativeName:Gallipoli,oddsName:Gallipoli,publicName:Gallipoli,nation:Italy}
+{name:Salernitana,fullName:Salernitana,nativeName:Salernitana,oddsName:Salernitana,publicName:Salernitana,nation:Italy}
+{name:Rimini,fullName:Rimini,nativeName:Rimini,oddsName:Rimini,publicName:Rimini,nation:Italy}
+{name:Pisa,fullName:Pisa,nativeName:Pisa,oddsName:Pisa,publicName:Pisa,nation:Italy}
+{name:Treviso,fullName:Treviso,nativeName:Treviso,oddsName:Treviso,publicName:Treviso,nation:Italy}
+{name:Monaco,fullName:Monaco,nativeName:Monaco,oddsName:Monaco,publicName:Monaco,nation:France}
+{name:Porto,fullName:Porto,nativeName:Porto,oddsName:Porto,publicName:Porto,nation:Portugal}
+{name:Basel,fullName:Basel,nativeName:Basel,oddsName:Basle,publicName:Basel,nation:Switzerland}
+{name:Shakhtar Donetsk,fullName:Shakhtar Donetsk,nativeName:Shakhtar Donetsk,oddsName:Shakhtar Donetsk,publicName:Shakhtar,nation:Ukraine}
+{name:PSG,fullName:Paris Saint-Germain,nativeName:Paris Saint-Germain,oddsName:PSG,publicName:Paris Saint Germain,nation:France}
+{name:Benfica,fullName:Benfica,nativeName:Benfica,oddsName:Benfica,publicName:Benfica,nation:Portugal}
+{name:Zenit,fullName:Zenit St Petersburgh,nativeName:Zenit,oddsName:Zenit St Petersburgh,publicName:Zenit,nation:Russia}
+{name:Lyon,fullName:Olympique Lyonnais,nativeName:Olympique Lyonnais,oddsName:Lyon,publicName:Lyon,nation:France}
+{name:Ajax,fullName:Ajax,nativeName:Ajax,oddsName:Ajax,publicName:Ajax,nation:Netherlands}
+{name:Dynamo Kiev,fullName:Dynamo Kiev,nativeName:Dynamo Kyiv,oddsName:Dinamo Kiev,publicName:Dynamo Kiev,nation:Ukraine}
+{name:Olympiakos,fullName:Olympiakos,nativeName:Olympiakos,oddsName:Olympiakos,publicName:Olympiakos,nation:Greece}
+{name:PSV,fullName:PSV Eindhoven,nativeName:PSV Eindhoven,oddsName:PSV,publicName:PSV,nation:Netherlands}
+{name:Rubin Kazan,fullName:Rubin Kazan,nativeName:Rubin Kazan,oddsName:Rubin,publicName:Rubin Kazan,nation:Russia}
+{name:Sporting,fullName:Sporting Clube de Portugal,nativeName:Sporting Clube de Portugal,oddsName:Sporting Lisbon,publicName:Sporting,nation:Portugal}
+{name:CSKA Moscow,fullName:CSKA Moscow,nativeName:CSKA Moskva,oddsName:CSKA Moscow,publicName:CSKA Moscow,nation:Russia}
+{name:Marseille,fullName:Olympique Marseille,nativeName:Olympique de Marseille,oddsName:Marseille,publicName:Marseille,nation:France}
+{name:Dnipro Dnipropetrovsk,fullName:Dnipro Dnipropetrovsk,nativeName:Dnipro Dnipropetrovsk,oddsName:Dnipro,publicName:Dnipro Dnipropetrovsk,nation:Ukraine}
+{name:Braga,fullName:Braga,nativeName:Braga,oddsName:Braga,publicName:Braga,nation:Portugal}
+{name:Galatasaray,fullName:Galatasaray,nativeName:Galatasaray,oddsName:Galatasaray,publicName:Galatasaray,nation:Turkey}
+{name:Anderlecht,fullName:RSC Anderlecht,nativeName:Anderlecht,oddsName:Anderlecht,publicName:Anderlecht,nation:Belgium}
+{name:Metalist Kharkiv,fullName:Metalist Kharkiv,nativeName:Metalist Kharkiv,oddsName:Metalist,publicName:Metalist,nation:Ukraine}
+{name:AZ,fullName:AZ Alkmaar,nativeName:AZ Alkmaar,oddsName:AZ Alkmaar,publicName:AZ Alkmaar,nation:Netherlands}
+{name:Twente,fullName:FC Twente,nativeName:Twente,oddsName:Twente Enschede,publicName:Twente,nation:Netherlands}
+{name:Salzburg,fullName:Salzburg,nativeName:Salzburg,oddsName:Salzburg,publicName:Salzburg,nation:Austria}
+{name:Viktoria Plzen,fullName:Viktoria Plzen,nativeName:Viktoria Plzeň,oddsName:Viktoria Plzen,publicName:Viktoria Plzen,nation:Czech Republic}
+{name:Club Brugge,fullName:Club Brugge,nativeName:Club Brugge,oddsName:Club Bruges,publicName:Club Brugge,nation:Belgium}
+{name:Copenhagen,fullName:Copenhagen,nativeName:København,oddsName:FC Kobenhavn,publicName:Kobenhavn,nation:Denmark}
+{name:PAOK,fullName:PAOK,nativeName:PAOK,oddsName:PAOK,publicName:PAOK,nation:Greece}
+{name:Steaua,fullName:Steaua Bucharest,nativeName:Steaua Bucureşti,oddsName:Steaua,publicName:Steaua,nation:Romania}
+{name:Celtic,fullName:Celtic,nativeName:Celtic,oddsName:Celtic,publicName:Celtic,nation:Scotland}
+{name:Spartak Moscow,fullName:Spartak Moscow,nativeName:Spartak Moskva,oddsName:Spartak,publicName:Spartak Moscow,nation:Russia}
+{name:Genk,fullName:Genk,nativeName:Genk,oddsName:Racing Genk,publicName:Genk,nation:Belgium}
+{name:Besiktas,fullName:Besiktas,nativeName:Beşiktaş,oddsName:Besiktas,publicName:Besiktas,nation:Turkey}
+{name:Trabzonspor,fullName:Trabzonspor,nativeName:Trabzonspor,oddsName:Trabzonspor,publicName:Trabzonspor,nation:Turkey}
+{name:Lille,fullName:LOSC Lille,nativeName:Lille,oddsName:Lille,publicName:Lille,nation:France}
+{name:APOEL,fullName:APOEL,nativeName:APOEL,oddsName:APOEL,publicName:APOEL,nation:Cyprus}
+{name:BATE,fullName:BATE Borisov,nativeName:BATE Borisov,oddsName:BATE Borisov,publicName:BATE,nation:Belarus}
+{name:Nomme Kalju,fullName:Nõmme Kalju,nativeName:Nõmme Kalju,oddsName:Nomme Kalju,publicName:Nomme Kalju,nation:Estonia}
+{name:Levadia,fullName:Levadia,nativeName:Levadia,oddsName:Levadia Tallinn,publicName:Levadia,nation:Estonia}
+{name:Flora,fullName:Flora,nativeName:Flora,oddsName:Flora,publicName:Flora,nation:Estonia}
+{name:Sillamae Kalev,fullName:Sillamäe Kalev,nativeName:Sillamäe Kalev,oddsName:Sillamae Kalev,publicName:Sillamae Kalev,nation:Estonia}
+{name:Tallinna Infonet,fullName:Tallinna Infonet,nativeName:Tallinna Infonet,oddsName:Tallinna Infonet,publicName:Tallinna Infonet,nation:Estonia}
+{name:Trans,fullName:Trans,nativeName:Trans,oddsName:Trans,publicName:Trans,nation:Estonia}
+{name:Tulevik,fullName:Tulevik,nativeName:Tulevik,oddsName:Tulevik,publicName:Tulevik,nation:Estonia}
+{name:Tammeka,fullName:Tammeka,nativeName:Tammeka,oddsName:Maag Tammeka,publicName:Tammeka,nation:Estonia}
+{name:Parnu,fullName:Pärnu,nativeName:Pärnu,oddsName:Parnu,publicName:Parnu,nation:Estonia}
+{name:Paide,fullName:Paide,nativeName:Paide,oddsName:Paide,publicName:Paide,nation:Estonia}
+{name:Tallinna Infonet II,fullName:Tallinna Infonet II,nativeName:Tallinna Infonet II,oddsName:Tallinna Infonet II,publicName:Tallinna Infonet II,nation:Estonia}
+{name:Flora II,fullName:Flora II,nativeName:Flora II,oddsName:Flora II,publicName:Flora II,nation:Estonia}
+{name:Levadia II,fullName:Levadia II,nativeName:Levadia II,oddsName:Levadia Tallinn II,publicName:Levadia II,nation:Estonia}
+{name:Kivioli Irbis,fullName:Kiviõli Irbis,nativeName:Kiviõli Irbis,oddsName:Kivioli,publicName:Kivioli Irbis,nation:Estonia}
+{name:Kalev Tallinn,fullName:Tallinna Kalev,nativeName:Tallinna Kalev,oddsName:Kalev,publicName:Kalev Tallinn,nation:Estonia}
+{name:Rakvere Tarvas,fullName:Rakvere Tarvas,nativeName:Rakvere Tarvas,oddsName:Rakvere Tarvas,publicName:Rakvere Tarvas,nation:Estonia}
+{name:Vandra,fullName:Vändra,nativeName:Vändra,oddsName:Vandra,publicName:Vandra,nation:Estonia}
+{name:Kuressaare,fullName:Kuressaare,nativeName:Kuressaare,oddsName:Kuressaare,publicName:Kuressaare,nation:Estonia}
+{name:Tartu Santos,fullName:Tartu Santos,nativeName:Tartu Santos,oddsName:Tartu Santos,publicName:Tartu Santos,nation:Estonia}
+{name:Nomme Kalju II,fullName:Nõmme Kalju II,nativeName:Nõmme Kalju II,oddsName:Nomme Kalju II,publicName:Nomme Kalju II,nation:Estonia}
+{name:Puuma,fullName:Puuma,nativeName:Puuma,oddsName:Puuma,publicName:Puuma,nation:Estonia}
+{name:Tammeka II,fullName:Tammeka II,nativeName:Tammeka II,oddsName:Maag Tammeka II,publicName:Tammeka II,nation:Estonia}
+{name:Lootus,fullName:Lootus,nativeName:Lootus,oddsName:Lootus,publicName:Lootus,nation:Estonia}
+{name:TJK Legion,fullName:TJK Legion,nativeName:TJK Legion,oddsName:TJK,publicName:TJK Legion,nation:Estonia}
+{name:Warrior,fullName:Warrior Valga,nativeName:Warrior,oddsName:Warrior,publicName:Warrior,nation:Estonia}
+{name:Lokomotiv,fullName:Lokomotiv,nativeName:Lokomotiv,oddsName:Lokomotiv,publicName:Lokomotiv,nation:Estonia}
+{name:HJK,fullName:HJK Helsinki,nativeName:HJK,oddsName:HJK Helsinki,publicName:HJK Helsinki,nation:Finland}
+{name:RoPS,fullName:Rovaniemen Palloseura,nativeName:RoPS,oddsName:RoPS,publicName:RoPS,nation:Finland}
+{name:SJK,fullName:Seinäjoen Jalkapallokerho,nativeName:SJK,oddsName:SJK Seinajoki,publicName:SJK,nation:Finland}
+{name:Mariehamn,fullName:IFK Mariehamn,nativeName:Mariehamn,oddsName:Mariehamn,publicName:Mariehamn,nation:Finland}
+{name:Inter Turku,fullName:Inter Turku,nativeName:Inter Turku,oddsName:Inter Turku,publicName:Inter Turku,nation:Finland}
+{name:KuPS,fullName:Kuopion Palloseura,nativeName:KuPS,oddsName:KuPS,publicName:KuPS,nation:Finland}
+{name:Lahti,fullName:FC Lahti,nativeName:Lahti,oddsName:Lahti,publicName:Lahti,nation:Finland}
+{name:HIFK,fullName:HIFK Fotboll,nativeName:HIFK,oddsName:HIFK Soccer Helsinki,publicName:HIFK,nation:Finland}
+{name:Jaro,fullName:FF Jaro,nativeName:Jaro,oddsName:Jaro,publicName:Jaro,nation:Finland}
+{name:Ilves,fullName:Ilves,nativeName:Ilves,oddsName:Ilves,publicName:Ilves,nation:Finland}
+{name:KTP,fullName:Kotkan Työväen Palloilijat,nativeName:KTP,oddsName:KTP Kotka,publicName:KTP,nation:Finland}
+{name:VPS,fullName:Vaasan Palloseura,nativeName:VPS,oddsName:VPS,publicName:VPS,nation:Finland}
+{name:PS Kemi,fullName:PS Kemi,nativeName:PS Kemi,oddsName:KePS Kemi,publicName:PS Kemi,nation:Finland}
+{name:PK-35 Vantaa,fullName:PK-35 Vantaa,nativeName:PK-35 Vantaa,oddsName:PK-35,publicName:PK-35 Vantaa,nation:Finland}
+{name:TPS,fullName:Turun Palloseura,nativeName:TPS,oddsName:TPS Turku,publicName:TPS,nation:Finland}
+{name:JJK,fullName:JJK Jyväskylä,nativeName:JJK,oddsName:JJK Jyvaskyla,publicName:JJK,nation:Finland}
+{name:Haka,fullName:Haka,nativeName:Haka,oddsName:Haka,publicName:Haka,nation:Finland}
+{name:Oulu,fullName:Oulu,nativeName:Oulu,oddsName:Oulu,publicName:Oulu,nation:Finland}
+{name:MP,fullName:Mikkelin Palloilijat,nativeName:MP,oddsName:MP,publicName:MP,nation:Finland}
+{name:Jazz,fullName:FC Jazz,nativeName:FC Jazz,oddsName:Jazz Juniorit,publicName:FC Jazz,webName:FC Jazz,nation:Finland}
+{name:EIF,fullName:Ekenäs IF,nativeName:EIF,oddsName:EIF Ekenas,publicName:EIF,nation:Finland}
+{name:VIFK,fullName:Vasa IFK,nativeName:VIFK,oddsName:VIFK,publicName:VIFK,nation:Finland}
+{name:JIPPO,fullName:JIPPO Joensuu,nativeName:JIPPO,oddsName:Jippo,publicName:JIPPO,nation:Finland}
+{name:Viikingit,fullName:FC Viikingit,nativeName:Viikingit,oddsName:Viikingit,publicName:FC Viikingit,nation:Finland}
+{name:OPS,fullName:Oulun Palloseura,nativeName:OPS,oddsName:OPS Oulu,publicName:OPS,nation:Finland}
+{name:Kajaani,fullName:Kajaani,nativeName:Kajaani,oddsName:AC Kajaani,publicName:Kajaani,nation:Finland}
+{name:Hameenlinna,fullName:FC Hämeenlinna,nativeName:FC Hämeenlinna,oddsName:Hameenlinna,publicName:FC Hameenlinna,nation:Finland}
+{name:PoPa,fullName:Porin Palloilijat,nativeName:PoPa,oddsName:PoPa,publicName:FC PoPa,nation:Finland}
+{name:KPV,fullName:Kokkolan Palloveikot,nativeName:KPV,oddsName:KPV,publicName:KPV,nation:Finland}
+{name:Espoo,fullName:FC Espoo,nativeName:Espoo,oddsName:Espoo,publicName:FC Espoo,nation:Finland}
+{name:TPV,fullName:Tampereen Pallo-Veikot,nativeName:TPV,oddsName:TPV,publicName:TPV,nation:Finland}
+{name:Klubi 04,fullName:Klubi 04,nativeName:Klubi 04,oddsName:Klubi-04,publicName:Klubi 04,nation:Finland}

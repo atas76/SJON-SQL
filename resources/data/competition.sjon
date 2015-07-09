@@ -1,0 +1,7 @@
+{id:1,name:English Premier League,referenceCompetition:1,staticRanking:false}
+{id:2,name:German Bundesliga,referenceCompetition:2,staticRanking:false}
+{id:3,name:Spanish Primera Division,referenceCompetition:3,staticRanking:false}
+{id:4,name:Italian Serie A,referenceCompetition:4,staticRanking:false}
+{id:5,name:UEFA Champions League,referenceCompetition:5,staticRanking:true}
+{id:6,name:Estonian Meistriliiga,referenceCompetition:6,staticRanking:false}
+{id:7,name:Finnish Veikkausliiga,referenceCompetition:7,staticRanking:false}

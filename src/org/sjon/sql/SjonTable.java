@@ -1,9 +1,20 @@
 package org.sjon.sql;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
+
+import org.sjon.only.parser.ColumnGroup;
+import org.sjon.only.parser.ColumnMap;
+import org.sjon.only.parser.ObjectParser;
+import org.sjon.only.scanner.ObjectAnalyzer;
+import org.sjon.sql.exceptions.SjonParsingException;
 
 public class SjonTable {
 	
@@ -16,10 +27,59 @@ public class SjonTable {
 	
 	private Set<SjonReference> references = new HashSet<>();
 	
-	private Set<SjonRecord> records;
+	private Set<SjonRecord> records = new HashSet<>();
 	
 	public SjonTable(String name) {
 		this.name = name;
+	}
+	
+	public Set<SjonRecord> getRecords() {
+		return this.records;
+	}
+	
+	public void loadData(String file) throws FileNotFoundException, IOException, SjonParsingException {
+		
+		ObjectAnalyzer analyzer;
+		ObjectParser parser;
+		
+		BufferedReader br = new BufferedReader(new FileReader(file));
+		
+	    try {
+	    	
+	        StringBuilder sb = new StringBuilder();
+	        String line = br.readLine();
+
+	        while (line != null) {
+	            sb.append(line);
+	            sb.append(System.lineSeparator());
+	            line = br.readLine();
+	        }
+	        
+	        analyzer = new ObjectAnalyzer(sb.toString());
+	        
+	    } finally {
+	        br.close();
+	    }
+	    
+	    analyzer.analyze();
+		parser = new ObjectParser(analyzer);
+		
+		try {
+			parser.parse();
+		} catch (Exception ex) {
+			throw new SjonParsingException();
+		}
+		
+		List<ColumnGroup> data = parser.getDocument();
+		
+		for (ColumnGroup colGroup:data) {
+			ColumnMap record = (ColumnMap) colGroup;
+			SjonRecord sjonRecord = new SjonRecord();
+			for (String fieldName: record.getColumns()) {
+				sjonRecord.addColumn(fieldName, record.getColumn(fieldName).getValue());
+			}
+			records.add(sjonRecord);
+		}
 	}
 	
 	public void addField(SjonField field) {
