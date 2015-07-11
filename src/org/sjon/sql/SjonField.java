@@ -43,6 +43,34 @@ public class SjonField {
 		return this.name;
 	}
 	
+	public SjonType getType() {
+		return this.type;
+	}
+	
+	public boolean isAutoIncrement() {
+		return this.autoIncrement;
+	}
+	
+	public String convert(Object value) {
+		switch(this.type) {
+		case INT:
+			return (String) value;
+		case TEXT:
+			return "'" + value + "'";
+		case BOOLEAN:
+			switch((String) value) {
+			case "true":
+				return "1";
+			case "false":
+				return "0";
+			default:
+				return "-1";
+			}
+		default:
+			return value.toString();
+		}
+	}
+	
 	public String getDefinition() {
 		
 		String definition = this.name + " " + this.type + " " 

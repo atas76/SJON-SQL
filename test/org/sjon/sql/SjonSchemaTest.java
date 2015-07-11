@@ -7,32 +7,58 @@ import java.io.File;
 import java.util.HashSet;
 import java.util.Set;
 
+import org.junit.Before;
 import org.junit.Test;
 
 public class SjonSchemaTest {
 	
-	@Test
-	public void testSchema() {
+	private SjonSchema schema;
+	
+	private SjonTable season;
+	private SjonTable competition;
+	private SjonTable team;
+	
+	@Before
+	public void setUp() {
 		
 		try {
-			SjonSchema schema = new SjonSchema(new File("resources/data/schema.sjon"));
-			System.out.println(schema.toSQL());
-		} catch(Exception ex) {
+			
+			schema = new SjonSchema(new File("resources/data/schema.sjon"));
+			
+			season = schema.getTable("season");
+			competition = schema.getTable("competition");
+			team = schema.getTable("team");
+			
+			season.loadData("resources/data/season.sjon");
+			competition.loadData("resources/data/competition.sjon");
+			team.loadData("resources/data/team.sjon");
+			
+		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
 	}
 	
 	@Test
+	public void testSchema() {
+		System.out.println(schema.toSQL());
+	}
+	
+	@Test
+	public void testTables() throws Exception {
+		
+		System.out.println();
+		System.out.println(season.toDML());
+		
+		System.out.println();
+		System.out.println(competition.toDML());
+		
+		System.out.println();
+		System.out.println(team.toDML());
+	}
+	
+	@Test
 	public void testDataLoading() throws Exception {
 	
-		SjonTable season = new SjonTable("season");
-		SjonTable competition = new SjonTable("competition");
-		SjonTable team = new SjonTable("team");
-		
-		season.loadData("resources/data/season.sjon");
-		competition.loadData("resources/data/competition.sjon");
-		team.loadData("resources/data/team.sjon");
-		
 		assertEquals(5, season.getRecords().size());
 		assertEquals(7, competition.getRecords().size());
 		assertEquals(318, team.getRecords().size());

@@ -1,5 +1,5 @@
-{type:relation,name:Season,fields:[[year,int],[name,string],[winter,boolean]]}
-{type:relation,name:Competition,fields:[[name,string],[referenceCompetition,int],[staticRanking,boolean]]}
-{type:relation,name:Team,fields:[[name,string],[fullName,string],[nativeName,string],[oddsName,string],[publicName,string],[nation,string,foreign key]],
+{type:relation,name:season,fields:[[year,int],[name,string],[winter,boolean]]}
+{type:relation,name:competition,fields:[[id,int,primary key],[name,string],[referenceCompetition,int],[staticRanking,boolean]]}
+{type:relation,name:team,fields:[[name,string],[fullName,string],[nativeName,string],[oddsName,string],[publicName,string],[nation,string,foreign key]],
 	nation:{table:Nation,references:name}}
-{type:relation,name:Nation,fields:[[name,string,primary key],[fullName,string],[nativeName,string]]}
+{type:relation,name:nation,fields:[[name,string,primary key],[fullName,string],[nativeName,string]]}

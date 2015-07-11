@@ -137,6 +137,10 @@ public class SjonSchema {
 		}
 	}
 	
+	public SjonTable getTable(String name) {
+		return this.tableIndex.get(name);
+	}
+	
 	public String toSQL() {
 		
 		StringBuilder schemaText = new StringBuilder();

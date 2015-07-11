@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -14,7 +15,10 @@ import org.sjon.only.parser.ColumnGroup;
 import org.sjon.only.parser.ColumnMap;
 import org.sjon.only.parser.ObjectParser;
 import org.sjon.only.scanner.ObjectAnalyzer;
+import org.sjon.sql.exceptions.BooleanValidationException;
+import org.sjon.sql.exceptions.IntegerValidationException;
 import org.sjon.sql.exceptions.SjonParsingException;
+import org.sjon.sql.exceptions.TypeValidationException;
 
 public class SjonTable {
 	
@@ -27,13 +31,13 @@ public class SjonTable {
 	
 	private Set<SjonReference> references = new HashSet<>();
 	
-	private Set<SjonRecord> records = new HashSet<>();
+	private List<SjonRecord> records = new ArrayList<>();
 	
 	public SjonTable(String name) {
 		this.name = name;
 	}
 	
-	public Set<SjonRecord> getRecords() {
+	public List<SjonRecord> getRecords() {
 		return this.records;
 	}
 	
@@ -126,7 +130,75 @@ public class SjonTable {
 		return query.toString();
 	}
 	
-	public String toDML() {
-		return null;
+	public String toDML() throws TypeValidationException {
+		
+		int validationRecordCounter = 0;
+		
+		// Validate values
+		for (SjonRecord record: this.records) {
+			validationRecordCounter++;
+			for (String fieldName:record.getFieldNames()) {
+				try {
+					// System.out.println(fieldName);
+					validateValue( (String) record.getValue(fieldName), fieldIndex.get(fieldName).getType());
+				} catch (IntegerValidationException ivex) {
+					throw new TypeValidationException("Record counter: " + validationRecordCounter + ", Field name: " + fieldName + ", " + ivex.getMessage());
+				} catch (BooleanValidationException bvex) {
+					throw new TypeValidationException("Record counter: " + validationRecordCounter + ", Field name: " + fieldName + ", " + bvex.getMessage());
+				}
+			}
+		}
+		
+		// Create INSERT query
+		StringBuilder query = new StringBuilder();
+		
+		// Keeping fields order consistent
+		List<String> queryFields = new ArrayList<String>();
+		for (String fieldName: fieldIndex.keySet()) {
+			if (!fieldIndex.get(fieldName).isAutoIncrement()) {
+				queryFields.add(fieldName);
+			}
+		}
+		
+		for (SjonRecord record: this.records) {
+			query.append("INSERT INTO " + this.name);
+			query.append("(");
+			for (String fieldName: queryFields) {				
+				query.append(fieldName);
+				query.append(",");
+			}
+			query.deleteCharAt(query.length() - 1);
+			query.append(") ");
+			query.append("VALUES (");
+			for (String fieldName: queryFields) {
+				query.append(fieldIndex.get(fieldName).convert(record.getValue(fieldName)));
+				query.append(",");
+			}
+			query.deleteCharAt(query.length() - 1);
+			query.append(");");
+			query.append("\n");
+		}
+		
+		return query.toString();
+	}
+	
+	private void validateValue(String value, SjonType type) throws IntegerValidationException, BooleanValidationException {
+		
+		// System.out.println(value + ", type: " + type.ordinal());
+		
+		switch(type) {
+		case INT:
+			try {
+				Integer.parseInt(value);
+			} catch (NumberFormatException nfex) {
+				throw new IntegerValidationException("Invalid integer: " + value);
+			}
+			break;
+		case BOOLEAN:
+			if (!value.equals("true") && !value.equals("false")) {
+				throw new BooleanValidationException("Invalid boolean value: " + value);
+			}
+			break;
+		}
 	}
 }
