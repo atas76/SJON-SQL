@@ -25,5 +25,7 @@ will be converted to 1 and 0 integer values respectively. Also quotes will be ad
 
 In case of a foreign key constraint, we need to add a foreign key definition for each field that is a foreign key.
 
+If a primary key is not explicitly specified, then an AUTOINCREMENT field will be added to the table's definition with its name in the format <table-name>Id.
+
 The convention is that, for each table that is defined in the schema.sjon file, a separate <table-name>.sjon file is expected to be found in the directory.
 The definition of each of the records in these table data files are custom to each table and straightforward, and will be converted to separate SQL INSERTION statements.
