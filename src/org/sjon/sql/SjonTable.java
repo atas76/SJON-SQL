@@ -41,6 +41,10 @@ public class SjonTable {
 		return this.records;
 	}
 	
+	public String getName() {
+		return this.name;
+	}
+	
 	public void loadData(String file) throws FileNotFoundException, IOException, SjonParsingException {
 		
 		ObjectAnalyzer analyzer;

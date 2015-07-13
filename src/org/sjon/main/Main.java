@@ -95,6 +95,7 @@ public class Main {
 	
 	// TODO: Write the output in a proper SQL file
 	public static void generateTable(SjonTable table) throws Exception {
+		// System.out.println("Generating table: " + table.getName());
 		System.out.println(table.toDML());
 	}
 }
