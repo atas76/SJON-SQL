@@ -11,12 +11,14 @@ into different sql files for better reuse.
 One file should have to be named "schema.sjon", and unsuprisingly, contains the schema description, which will subsequently be converted to SQL CREATE TABLE
 statements. The format of each of its SJON records is:
 
+```
 schema-definition-record := {type:relation,name:<table-name>,fields:<domain-definition>,(<field-name>:<foreign-key-definition>)*}
 domain-definition := [<field-definition-commalist>]
 field-definition := [<field-name>,<field-type>,<constraint>*]
 field-type := int | string | boolean
 constraint := "primary key" | "foreign key"
 foreign-key-definition := {table:<table-name>,references:<field-name>}
+```
 
 The only "type" of database object currently supported is that of a table (relation in formal terminology). The types of database values currently supported
 are those describes in the grammar. The boolean values represented in an SJON file are expected to be either "true" or "false", and in the actual SQL statement
