@@ -8,8 +8,7 @@ The output of the utility is a stream of SQL statements for creation of the data
 according to your requirements; for example, currently, I separate these statements (also separated by newline if there are for different tables and schema) 
 into different sql files for better reuse.
 
-One file should have to be named "schema.sjon", and unsuprisingly, contains the schema description, which will subsequently be converted to SQL CREATE TABLE
-statements. The format of each of its SJON records is:
+One file should be named "schema.sjon", and unsuprisingly, contains the schema description, which will subsequently be converted to SQL CREATE TABLE statements. The format of each of its SJON records is:
 
 ```
 schema-definition-record := {type:relation,name:<table-name>,fields:<domain-definition>,(<field-name>:<foreign-key-definition>)*}
@@ -21,10 +20,10 @@ foreign-key-definition := {table:<table-name>,references:<field-name>}
 ```
 
 The only "type" of database object currently supported is that of a table (relation in formal terminology). The types of database values currently supported
-are those describes in the grammar. The boolean values represented in an SJON file are expected to be either "true" or "false", and in the actual SQL statement
+are those described in the grammar. The boolean values represented in an SJON file are expected to be either "true" or "false", and in the actual SQL statement
 will be converted to 1 and 0 integer values respectively. Also quotes will be added to the string values in the SQL statements.
 
 In case of a foreign key constraint, we need to add a foreign key definition for each field that is a foreign key.
 
 The convention is that, for each table that is defined in the schema.sjon file, a separate <table-name>.sjon file is expected to be found in the directory.
-The definition of each of the records in these files are custom to each table and straightforward, and will be converted to separate SQL INSERTION statements.
+The definition of each of the records in these table data files are custom to each table and straightforward, and will be converted to separate SQL INSERTION statements.
