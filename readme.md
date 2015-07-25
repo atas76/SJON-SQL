@@ -4,10 +4,8 @@ The SJON-SQL is a utility for convertion of the SJON format files to an (sqlite)
 
 For this we need to describe the schema of the database and transfer the data to the database.
 The only current parameter of the utility is a folder, containing the files to be converted to the database (in SJON format).
-The output of the utility is a stream of SQL statements for creation of the database schema and data insertion. These are just raw statements and will be used
-according to your requirements; for example, currently, I separate these statements (also separated by newline if there are for different tables and schema) 
-into different sql files for better reuse.
-
+The output of the utility is a stream of SQL statements for creation of the database schema and data insertion.
+There are methods for just directing the output to the console, or for creating separate sql files; one for each table, and a schema.sql file comprising the CREATE TABLE statements. By default, the command-line utility now does the latter, as it is more convenient to have the sql statements already in a collection of conventionally named files.
 One file should be named "schema.sjon", and unsuprisingly, contains the schema description, which will subsequently be converted to SQL CREATE TABLE statements. The format of each of its SJON records is:
 
 ```
