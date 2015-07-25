@@ -13,22 +13,33 @@ import java.util.Map;
 
 import org.sjon.sql.SjonSchema;
 import org.sjon.sql.SjonTable;
+import org.sjon.sql.exceptions.TypeValidationException;
 
 public class Main {
 
 	public static void main(String[] args) {
 		
 		if (args.length < 1) {
-			System.out.println("USAGE: <directory>");
+			System.out.println("USAGE: <input-directory> [<output-directory>]");
 			System.exit(1);
 		}
 		
 		// Check that directory exists
 		
 		Path dbPath = Paths.get(args[0]);
+		Path sqlPath = Paths.get(args[0]);
+		
+		if (args.length == 2) {
+			sqlPath = Paths.get(args[1]);
+		} 
 		
 		if (!Files.isDirectory(dbPath)) {
-			System.out.println("A directory must be specified");
+			System.out.println("An input directory must be specified");
+			System.exit(2);
+		}
+		
+		if (!Files.isDirectory(sqlPath)) {
+			System.out.println("An output directory must be specified");
 			System.exit(2);
 		}
 		
@@ -70,11 +81,11 @@ public class Main {
 				tables.add(currentTable);
 			}
 			
-			generateSchema(schema);
+			generateSchema(schema, sqlPath);
 			
 			for (SjonTable table: tables) {
 				System.out.println();
-				generateTable(table);
+				generateTable(table, sqlPath);
 			}
 			
 			/*
@@ -88,14 +99,22 @@ public class Main {
 		}
 	}
 	
-	// TODO: Write the output in a proper SQL file
+	// Simply output to console
 	public static void generateSchema(SjonSchema schema) {
 		System.out.println(schema.toSQL());
 	}
 	
-	// TODO: Write the output in a proper SQL file
+	public static void generateSchema(SjonSchema schema, Path sqlPath) throws IOException {
+		Files.write(Paths.get(sqlPath.toString(), "schema.sql"), schema.toSQL().getBytes());	
+	}
+	
+	// Simply output to console
 	public static void generateTable(SjonTable table) throws Exception {
 		// System.out.println("Generating table: " + table.getName());
 		System.out.println(table.toDML());
+	}
+	
+	public static void generateTable(SjonTable table, Path sqlPath) throws IOException, TypeValidationException {
+		Files.write(Paths.get(sqlPath.toString(), table.getName() + ".sql"), table.toDML().getBytes());
 	}
 }
