@@ -66,6 +66,8 @@ public class SjonField {
 			default:
 				return "-1";
 			}
+		case DATE:
+			return "'" + ((String) value).replace('.', ':') + "'";
 		default:
 			return value.toString();
 		}

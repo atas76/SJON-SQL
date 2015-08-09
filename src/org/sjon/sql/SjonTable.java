@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -16,6 +20,7 @@ import org.sjon.only.parser.ColumnMap;
 import org.sjon.only.parser.ObjectParser;
 import org.sjon.only.scanner.ObjectAnalyzer;
 import org.sjon.sql.exceptions.BooleanValidationException;
+import org.sjon.sql.exceptions.DateValidationException;
 import org.sjon.sql.exceptions.IntegerValidationException;
 import org.sjon.sql.exceptions.SjonParsingException;
 import org.sjon.sql.exceptions.TypeValidationException;
@@ -143,12 +148,11 @@ public class SjonTable {
 			validationRecordCounter++;
 			for (String fieldName:record.getFieldNames()) {
 				try {
-					// System.out.println(fieldName);
 					validateValue( (String) record.getValue(fieldName), fieldIndex.get(fieldName).getType());
-				} catch (IntegerValidationException ivex) {
-					throw new TypeValidationException("Record counter: " + validationRecordCounter + ", Field name: " + fieldName + ", " + ivex.getMessage());
-				} catch (BooleanValidationException bvex) {
-					throw new TypeValidationException("Record counter: " + validationRecordCounter + ", Field name: " + fieldName + ", " + bvex.getMessage());
+				} catch (IntegerValidationException | DateValidationException | BooleanValidationException vex) {
+					throw new TypeValidationException("Record counter: " + validationRecordCounter + ", Field name: " + fieldName + ", " + vex.getMessage());
+				} catch (NullPointerException npex) {
+					System.out.println("Field missing: " + fieldName);
 				}
 			}
 		}
@@ -186,7 +190,7 @@ public class SjonTable {
 		return query.toString();
 	}
 	
-	private void validateValue(String value, SjonType type) throws IntegerValidationException, BooleanValidationException {
+	private void validateValue(String value, SjonType type) throws IntegerValidationException, BooleanValidationException, DateValidationException {
 		
 		// System.out.println(value + ", type: " + type.ordinal());
 		
@@ -203,6 +207,15 @@ public class SjonTable {
 				throw new BooleanValidationException("Invalid boolean value: " + value);
 			}
 			break;
-		}
+		case DATE:
+			try {
+			    DateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm");
+			    formatter.setLenient(false);
+			    value = value.replace('.', ':'); // a hack to bypass escaping the date format for avoiding collision with the key value separator
+			    Date date = formatter.parse(value); // We don't really care about the actual value, as it will be entered and manipulated as TEXT by SQLite
+			} catch (ParseException e) { 
+			    throw new DateValidationException("Invalid date format: " + value);
+			}
+		}	
 	}
 }

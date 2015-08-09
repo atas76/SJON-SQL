@@ -99,6 +99,9 @@ public class SjonSchema {
 					case "boolean":
 						fieldType = SjonType.BOOLEAN;
 						break;
+					case "date":
+						fieldType = SjonType.DATE;
+						break;
 					default:
 						throw new UndefinedFieldTypeException();
 					}

@@ -4,7 +4,8 @@ public enum SjonType {
 	
 	INT,
 	TEXT,
-	BOOLEAN;
+	BOOLEAN,
+	DATE;
 	
 	@Override
 	public String toString() {
@@ -15,6 +16,8 @@ public enum SjonType {
 			return "TEXT";
 		case 2:
 			return "INTEGER";
+		case 3:
+			return "TEXT"; // Tightly bound to SQLite at the moment
 		default:
 			return "TEXT";
 		}

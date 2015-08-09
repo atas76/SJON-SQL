@@ -17,6 +17,9 @@ public class SjonSchemaTest {
 	private SjonTable season;
 	private SjonTable competition;
 	private SjonTable team;
+	private SjonTable teamRanking;
+	private SjonTable match;
+	private SjonTable upcomingMatches;
 	
 	@Before
 	public void setUp() {
@@ -28,10 +31,16 @@ public class SjonSchemaTest {
 			season = schema.getTable("season");
 			competition = schema.getTable("competition");
 			team = schema.getTable("team");
+			teamRanking = schema.getTable("teamRanking");
+			match = schema.getTable("match");
+			upcomingMatches = schema.getTable("upcomingMatches");
 			
 			season.loadData("resources/data/season.sjon");
 			competition.loadData("resources/data/competition.sjon");
 			team.loadData("resources/data/team.sjon");
+			teamRanking.loadData("resources/data/teamRanking.sjon");
+			match.loadData("resources/data/match.sjon");
+			upcomingMatches.loadData("resources/data/upcomingMatches.sjon");
 			
 		} catch (Exception ex) {
 			ex.printStackTrace();
@@ -54,6 +63,16 @@ public class SjonSchemaTest {
 		
 		System.out.println();
 		System.out.println(team.toDML());
+		
+		System.out.println();
+		System.out.println(teamRanking.toDML());
+		
+		System.out.println();
+		System.out.println(match.toDML());
+		
+		System.out.println();
+		System.out.println(upcomingMatches.toDML());
+		
 	}
 	
 	@Test

@@ -1,7 +1,23 @@
-{id:1,name:English Premier League,referenceCompetition:1,staticRanking:false}
-{id:2,name:German Bundesliga,referenceCompetition:2,staticRanking:false}
-{id:3,name:Spanish Primera Division,referenceCompetition:3,staticRanking:false}
-{id:4,name:Italian Serie A,referenceCompetition:4,staticRanking:false}
-{id:5,name:UEFA Champions League,referenceCompetition:5,staticRanking:true}
-{id:6,name:Estonian Meistriliiga,referenceCompetition:6,staticRanking:false}
-{id:7,name:Finnish Veikkausliiga,referenceCompetition:7,staticRanking:false}
+{id:1,name:English Premier League,staticRanking:false,ranking:2}
+{id:2,name:German Bundesliga,staticRanking:false,ranking:3}
+{id:3,name:Spanish Primera Division,staticRanking:false,ranking:4}
+{id:4,name:Italian Serie A,staticRanking:false,ranking:5}
+{id:5,name:UEFA Champions League,staticRanking:true,ranking:1}
+{id:6,name:Estonian Meistriliiga,staticRanking:false,ranking:6}
+{id:7,name:Finnish Veikkausliiga,staticRanking:false,ranking:7}
+{id:8,name:Icelandic Landsbankadeild,staticRanking:false,ranking:8}
+{id:9,name:Latvian Virsliga,staticRanking:false,ranking:9}
+{id:10,name:Irish Premier Division,staticRanking:false,ranking:10}
+{id:11,name:Swedish Allsvenskan,staticRanking:false,ranking:11}
+{id:12,name:MLS,staticRanking:false,ranking:12}
+{id:13,name:Lithuanian A Lyga,staticRanking:false,ranking:13}
+{id:14,name:Norwegian Tippeligaen,staticRanking:false,ranking:14}
+{id:15,name:Belarusian Premier League,staticRanking:false,ranking:15}
+{id:16,name:Faroese Meistaradeildin,staticRanking:false,ranking:16}
+{id:17,name:K League Classic,staticRanking:false,ranking:17}
+{id:18,name:Chinese Super League,staticRanking:false,ranking:18}
+{id:19,name:J-League,staticRanking:false,ranking:19}
+{id:20,name:English Championship,staticRanking:false,ranking:2}
+{id:21,name:German Bundesliga 2,staticRanking:false,ranking:3}
+{id:22,name:Spanish Segunda Division,staticRanking:false,ranking:4}
+{id:23,name:Italian Serie B,staticRanking:false,ranking:5}

@@ -1,0 +1,1400 @@
+{year:2015,ranking:2,team:Chelsea,rank:1}
+{year:2014,ranking:2,team:Chelsea,rank:3}
+{year:2013,ranking:2,team:Chelsea,rank:3}
+{year:2012,ranking:2,team:Chelsea,rank:6}
+{year:2011,ranking:2,team:Chelsea,rank:2}
+{year:2010,ranking:2,team:Chelsea,rank:1}
+{year:2015,ranking:2,team:Manchester City,rank:2}
+{year:2014,ranking:2,team:Manchester City,rank:1}
+{year:2013,ranking:2,team:Manchester City,rank:2}
+{year:2012,ranking:2,team:Manchester City,rank:1}
+{year:2011,ranking:2,team:Manchester City,rank:3}
+{year:2010,ranking:2,team:Manchester City,rank:5}
+{year:2015,ranking:2,team:Arsenal,rank:3}
+{year:2014,ranking:2,team:Arsenal,rank:4}
+{year:2013,ranking:2,team:Arsenal,rank:4}
+{year:2012,ranking:2,team:Arsenal,rank:3}
+{year:2011,ranking:2,team:Arsenal,rank:4}
+{year:2010,ranking:2,team:Arsenal,rank:3}
+{year:2015,ranking:2,team:Manchester United,rank:4}
+{year:2014,ranking:2,team:Manchester United,rank:7}
+{year:2013,ranking:2,team:Manchester United,rank:1}
+{year:2012,ranking:2,team:Manchester United,rank:2}
+{year:2011,ranking:2,team:Manchester United,rank:1}
+{year:2010,ranking:2,team:Manchester United,rank:2}
+{year:2015,ranking:2,team:Tottenham,rank:5}
+{year:2014,ranking:2,team:Tottenham,rank:6}
+{year:2013,ranking:2,team:Tottenham,rank:5}
+{year:2012,ranking:2,team:Tottenham,rank:4}
+{year:2011,ranking:2,team:Tottenham,rank:5}
+{year:2010,ranking:2,team:Tottenham,rank:4}
+{year:2015,ranking:2,team:Liverpool,rank:6}
+{year:2014,ranking:2,team:Liverpool,rank:2}
+{year:2013,ranking:2,team:Liverpool,rank:7}
+{year:2012,ranking:2,team:Liverpool,rank:8}
+{year:2011,ranking:2,team:Liverpool,rank:6}
+{year:2010,ranking:2,team:Liverpool,rank:7}
+{year:2015,ranking:2,team:Southampton,rank:7}
+{year:2014,ranking:2,team:Southampton,rank:8}
+{year:2013,ranking:2,team:Southampton,rank:14}
+{year:2012,ranking:2,team:Southampton,rank:22}
+{year:2011,ranking:2,team:Southampton,rank:46}
+{year:2010,ranking:2,team:Southampton,rank:51}
+{year:2015,ranking:2,team:Swansea,rank:8}
+{year:2014,ranking:2,team:Swansea,rank:12}
+{year:2013,ranking:2,team:Swansea,rank:9}
+{year:2012,ranking:2,team:Swansea,rank:11}
+{year:2011,ranking:2,team:Swansea,rank:23}
+{year:2010,ranking:2,team:Swansea,rank:27}
+{year:2015,ranking:2,team:Stoke,rank:9}
+{year:2014,ranking:2,team:Stoke,rank:9}
+{year:2013,ranking:2,team:Stoke,rank:13}
+{year:2012,ranking:2,team:Stoke,rank:14}
+{year:2011,ranking:2,team:Stoke,rank:13}
+{year:2010,ranking:2,team:Stoke,rank:11}
+{year:2015,ranking:2,team:Crystal Palace,rank:10}
+{year:2014,ranking:2,team:Crystal Palace,rank:11}
+{year:2013,ranking:2,team:Crystal Palace,rank:25}
+{year:2012,ranking:2,team:Crystal Palace,rank:37}
+{year:2011,ranking:2,team:Crystal Palace,rank:40}
+{year:2010,ranking:2,team:Crystal Palace,rank:41}
+{year:2015,ranking:2,team:Everton,rank:11}
+{year:2014,ranking:2,team:Everton,rank:5}
+{year:2013,ranking:2,team:Everton,rank:6}
+{year:2012,ranking:2,team:Everton,rank:7}
+{year:2011,ranking:2,team:Everton,rank:7}
+{year:2010,ranking:2,team:Everton,rank:8}
+{year:2015,ranking:2,team:West Ham,rank:12}
+{year:2014,ranking:2,team:West Ham,rank:13}
+{year:2013,ranking:2,team:West Ham,rank:10}
+{year:2012,ranking:2,team:West Ham,rank:23}
+{year:2011,ranking:2,team:West Ham,rank:20}
+{year:2010,ranking:2,team:West Ham,rank:17}
+{year:2015,ranking:2,team:WBA,rank:13}
+{year:2014,ranking:2,team:WBA,rank:17}
+{year:2013,ranking:2,team:WBA,rank:8}
+{year:2012,ranking:2,team:WBA,rank:10}
+{year:2011,ranking:2,team:WBA,rank:11}
+{year:2010,ranking:2,team:WBA,rank:22}
+{year:2015,ranking:2,team:Leicester,rank:14}
+{year:2014,ranking:2,team:Leicester,rank:21}
+{year:2013,ranking:2,team:Leicester,rank:26}
+{year:2012,ranking:2,team:Leicester,rank:29}
+{year:2011,ranking:2,team:Leicester,rank:30}
+{year:2010,ranking:2,team:Leicester,rank:25}
+{year:2015,ranking:2,team:Newcastle,rank:15}
+{year:2014,ranking:2,team:Newcastle,rank:10}
+{year:2013,ranking:2,team:Newcastle,rank:16}
+{year:2012,ranking:2,team:Newcastle,rank:5}
+{year:2011,ranking:2,team:Newcastle,rank:12}
+{year:2010,ranking:2,team:Newcastle,rank:21}
+{year:2015,ranking:2,team:Sunderland,rank:16}
+{year:2014,ranking:2,team:Sunderland,rank:14}
+{year:2013,ranking:2,team:Sunderland,rank:17}
+{year:2012,ranking:2,team:Sunderland,rank:13}
+{year:2011,ranking:2,team:Sunderland,rank:10}
+{year:2010,ranking:2,team:Sunderland,rank:13}
+{year:2015,ranking:2,team:Aston Villa,rank:17}
+{year:2014,ranking:2,team:Aston Villa,rank:15}
+{year:2013,ranking:2,team:Aston Villa,rank:15}
+{year:2012,ranking:2,team:Aston Villa,rank:16}
+{year:2011,ranking:2,team:Aston Villa,rank:9}
+{year:2010,ranking:2,team:Aston Villa,rank:6}
+{year:2015,ranking:2,team:Hull,rank:18}
+{year:2014,ranking:2,team:Hull,rank:16}
+{year:2013,ranking:2,team:Hull,rank:22}
+{year:2012,ranking:2,team:Hull,rank:28}
+{year:2011,ranking:2,team:Hull,rank:31}
+{year:2010,ranking:2,team:Hull,rank:19}
+{year:2015,ranking:2,team:Burnley,rank:19}
+{year:2014,ranking:2,team:Burnley,rank:22}
+{year:2013,ranking:2,team:Burnley,rank:31}
+{year:2012,ranking:2,team:Burnley,rank:33}
+{year:2011,ranking:2,team:Burnley,rank:28}
+{year:2010,ranking:2,team:Burnley,rank:18}
+{year:2015,ranking:2,team:QPR,rank:20}
+{year:2014,ranking:2,team:QPR,rank:24}
+{year:2013,ranking:2,team:QPR,rank:20}
+{year:2012,ranking:2,team:QPR,rank:17}
+{year:2011,ranking:2,team:QPR,rank:21}
+{year:2010,ranking:2,team:QPR,rank:33}
+{year:2015,ranking:2,team:Bournemouth,rank:21}
+{year:2014,ranking:2,team:Bournemouth,rank:30}
+{year:2013,ranking:2,team:Bournemouth,rank:46}
+{year:2012,ranking:2,team:Bournemouth,rank:55}
+{year:2011,ranking:2,team:Bournemouth,rank:50}
+{year:2010,ranking:2,team:Bournemouth,rank:70}
+{year:2015,ranking:2,team:Watford,rank:22}
+{year:2014,ranking:2,team:Watford,rank:33}
+{year:2013,ranking:2,team:Watford,rank:23}
+{year:2012,ranking:2,team:Watford,rank:31}
+{year:2011,ranking:2,team:Watford,rank:34}
+{year:2010,ranking:2,team:Watford,rank:36}
+{year:2015,ranking:2,team:Norwich,rank:23}
+{year:2014,ranking:2,team:Norwich,rank:18}
+{year:2013,ranking:2,team:Norwich,rank:11}
+{year:2012,ranking:2,team:Norwich,rank:12}
+{year:2011,ranking:2,team:Norwich,rank:22}
+{year:2010,ranking:2,team:Norwich,rank:45}
+{year:2015,ranking:2,team:Middlesbrough,rank:24}
+{year:2014,ranking:2,team:Middlesbrough,rank:32}
+{year:2013,ranking:2,team:Middlesbrough,rank:36}
+{year:2012,ranking:2,team:Middlesbrough,rank:27}
+{year:2011,ranking:2,team:Middlesbrough,rank:32}
+{year:2010,ranking:2,team:Middlesbrough,rank:31}
+{year:2015,ranking:2,team:Brentford,rank:25}
+{year:2014,ranking:2,team:Brentford,rank:46}
+{year:2013,ranking:2,team:Brentford,rank:47}
+{year:2012,ranking:2,team:Brentford,rank:53}
+{year:2011,ranking:2,team:Brentford,rank:55}
+{year:2010,ranking:2,team:Brentford,rank:53}
+{year:2015,ranking:2,team:Ipswich,rank:26}
+{year:2014,ranking:2,team:Ipswich,rank:29}
+{year:2013,ranking:2,team:Ipswich,rank:34}
+{year:2012,ranking:2,team:Ipswich,rank:35}
+{year:2011,ranking:2,team:Ipswich,rank:33}
+{year:2010,ranking:2,team:Ipswich,rank:35}
+{year:2015,ranking:2,team:Wolves,rank:27}
+{year:2014,ranking:2,team:Wolves,rank:45}
+{year:2013,ranking:2,team:Wolves,rank:43}
+{year:2012,ranking:2,team:Wolves,rank:20}
+{year:2011,ranking:2,team:Wolves,rank:17}
+{year:2010,ranking:2,team:Wolves,rank:15}
+{year:2015,ranking:2,team:Derby,rank:28}
+{year:2014,ranking:2,team:Derby,rank:22}
+{year:2013,ranking:2,team:Derby,rank:30}
+{year:2012,ranking:2,team:Derby,rank:32}
+{year:2011,ranking:2,team:Derby,rank:39}
+{year:2010,ranking:2,team:Derby,rank:34}
+{year:2015,ranking:2,team:Blackburn,rank:29}
+{year:2014,ranking:2,team:Blackburn,rank:28}
+{year:2013,ranking:2,team:Blackburn,rank:37}
+{year:2012,ranking:2,team:Blackburn,rank:19}
+{year:2011,ranking:2,team:Blackburn,rank:15}
+{year:2010,ranking:2,team:Blackburn,rank:10}
+{year:2015,ranking:2,team:Birmingham,rank:30}
+{year:2014,ranking:2,team:Birmingham,rank:41}
+{year:2013,ranking:2,team:Birmingham,rank:32}
+{year:2012,ranking:2,team:Birmingham,rank:24}
+{year:2011,ranking:2,team:Birmingham,rank:18}
+{year:2010,ranking:2,team:Birmingham,rank:9}
+{year:2015,ranking:2,team:Cardiff,rank:31}
+{year:2014,ranking:2,team:Cardiff,rank:20}
+{year:2013,ranking:2,team:Cardiff,rank:21}
+{year:2012,ranking:2,team:Cardiff,rank:26}
+{year:2011,ranking:2,team:Cardiff,rank:24}
+{year:2010,ranking:2,team:Cardiff,rank:24}
+{year:2015,ranking:2,team:Charlton,rank:32}
+{year:2014,ranking:2,team:Charlton,rank:38}
+{year:2013,ranking:2,team:Charlton,rank:29}
+{year:2012,ranking:2,team:Charlton,rank:45}
+{year:2011,ranking:2,team:Charlton,rank:57}
+{year:2010,ranking:2,team:Charlton,rank:48}
+{year:2015,ranking:2,team:Sheffield Wednesday,rank:33}
+{year:2014,ranking:2,team:Sheffield Wednesday,rank:36}
+{year:2013,ranking:2,team:Sheffield Wednesday,rank:38}
+{year:2012,ranking:2,team:Sheffield Wednesday,rank:46}
+{year:2011,ranking:2,team:Sheffield Wednesday,rank:59}
+{year:2010,ranking:2,team:Sheffield Wednesday,rank:66}
+{year:2015,ranking:2,team:Nottingham,rank:34}
+{year:2014,ranking:2,team:Nottingham,rank:31}
+{year:2013,ranking:2,team:Nottingham,rank:28}
+{year:2012,ranking:2,team:Nottingham,rank:39}
+{year:2011,ranking:2,team:Nottingham,rank:26}
+{year:2010,ranking:2,team:Nottingham,rank:23}
+{year:2015,ranking:2,team:Leeds,rank:35}
+{year:2014,ranking:2,team:Leeds,rank:35}
+{year:2013,ranking:2,team:Leeds,rank:33}
+{year:2012,ranking:2,team:Leeds,rank:34}
+{year:2011,ranking:2,team:Leeds,rank:27}
+{year:2010,ranking:2,team:Leeds,rank:46}
+{year:2015,ranking:2,team:Huddersfield,rank:36}
+{year:2014,ranking:2,team:Huddersfield,rank:37}
+{year:2013,ranking:2,team:Huddersfield,rank:39}
+{year:2012,ranking:2,team:Huddersfield,rank:48}
+{year:2011,ranking:2,team:Huddersfield,rank:47}
+{year:2010,ranking:2,team:Huddersfield,rank:50}
+{year:2015,ranking:2,team:Fulham,rank:37}
+{year:2014,ranking:2,team:Fulham,rank:19}
+{year:2013,ranking:2,team:Fulham,rank:12}
+{year:2012,ranking:2,team:Fulham,rank:9}
+{year:2011,ranking:2,team:Fulham,rank:8}
+{year:2010,ranking:2,team:Fulham,rank:12}
+{year:2015,ranking:2,team:Bolton,rank:38}
+{year:2014,ranking:2,team:Bolton,rank:34}
+{year:2013,ranking:2,team:Bolton,rank:27}
+{year:2012,ranking:2,team:Bolton,rank:18}
+{year:2011,ranking:2,team:Bolton,rank:14}
+{year:2010,ranking:2,team:Bolton,rank:14}
+{year:2015,ranking:2,team:Reading,rank:39}
+{year:2014,ranking:2,team:Reading,rank:27}
+{year:2013,ranking:2,team:Reading,rank:19}
+{year:2012,ranking:2,team:Reading,rank:21}
+{year:2011,ranking:2,team:Reading,rank:25}
+{year:2010,ranking:2,team:Reading,rank:29}
+{year:2015,ranking:2,team:Brighton,rank:40}
+{year:2014,ranking:2,team:Brighton,rank:26}
+{year:2013,ranking:2,team:Brighton,rank:24}
+{year:2012,ranking:2,team:Brighton,rank:30}
+{year:2011,ranking:2,team:Brighton,rank:45}
+{year:2010,ranking:2,team:Brighton,rank:57}
+{year:2015,ranking:2,team:Rotherham,rank:41}
+{year:2014,ranking:2,team:Rotherham,rank:48}
+{year:2013,ranking:2,team:Rotherham,rank:70}
+{year:2012,ranking:2,team:Rotherham,rank:78}
+{year:2011,ranking:2,team:Rotherham,rank:77}
+{year:2010,ranking:2,team:Rotherham,rank:73}
+{year:2015,ranking:2,team:Millwall,rank:42}
+{year:2014,ranking:2,team:Millwall,rank:39}
+{year:2013,ranking:2,team:Millwall,rank:40}
+{year:2012,ranking:2,team:Millwall,rank:36}
+{year:2011,ranking:2,team:Millwall,rank:29}
+{year:2010,ranking:2,team:Millwall,rank:47}
+{year:2015,ranking:2,team:Wigan,rank:43}
+{year:2014,ranking:2,team:Wigan,rank:25}
+{year:2013,ranking:2,team:Wigan,rank:18}
+{year:2012,ranking:2,team:Wigan,rank:15}
+{year:2011,ranking:2,team:Wigan,rank:16}
+{year:2010,ranking:2,team:Wigan,rank:16}
+{year:2015,ranking:2,team:Blackpool,rank:44}
+{year:2014,ranking:2,team:Blackpool,rank:40}
+{year:2013,ranking:2,team:Blackpool,rank:35}
+{year:2012,ranking:2,team:Blackpool,rank:25}
+{year:2011,ranking:2,team:Blackpool,rank:19}
+{year:2010,ranking:2,team:Blackpool,rank:26}
+{year:2015,ranking:2,team:Doncaster,rank:57}
+{year:2014,ranking:2,team:Doncaster,rank:42}
+{year:2013,ranking:2,team:Doncaster,rank:45}
+{year:2012,ranking:2,team:Doncaster,rank:44}
+{year:2011,ranking:2,team:Doncaster,rank:41}
+{year:2010,ranking:2,team:Doncaster,rank:32}
+{year:2015,ranking:2,team:Barnsley,rank:55}
+{year:2014,ranking:2,team:Barnsley,rank:43}
+{year:2013,ranking:2,team:Barnsley,rank:41}
+{year:2012,ranking:2,team:Barnsley,rank:41}
+{year:2011,ranking:2,team:Barnsley,rank:37}
+{year:2010,ranking:2,team:Barnsley,rank:38}
+{year:2015,ranking:2,team:Yeovil,rank:68}
+{year:2014,ranking:2,team:Yeovil,rank:44}
+{year:2013,ranking:2,team:Yeovil,rank:48}
+{year:2012,ranking:2,team:Yeovil,rank:61}
+{year:2011,ranking:2,team:Yeovil,rank:58}
+{year:2010,ranking:2,team:Yeovil,rank:59}
+{year:2015,ranking:2,team:Bristol City,rank:45}
+{year:2014,ranking:2,team:Bristol City,rank:56}
+{year:2013,ranking:2,team:Bristol City,rank:44}
+{year:2012,ranking:2,team:Bristol City,rank:40}
+{year:2011,ranking:2,team:Bristol City,rank:35}
+{year:2010,ranking:2,team:Bristol City,rank:30}
+{year:2015,ranking:2,team:Peterborough,rank:53}
+{year:2014,ranking:2,team:Peterborough,rank:50}
+{year:2013,ranking:2,team:Peterborough,rank:42}
+{year:2012,ranking:2,team:Peterborough,rank:38}
+{year:2011,ranking:2,team:Peterborough,rank:48}
+{year:2010,ranking:2,team:Peterborough,rank:44}
+{year:2015,ranking:2,team:Portsmouth,rank:84}
+{year:2014,ranking:2,team:Portsmouth,rank:81}
+{year:2013,ranking:2,team:Portsmouth,rank:68}
+{year:2012,ranking:2,team:Portsmouth,rank:42}
+{year:2011,ranking:2,team:Portsmouth,rank:36}
+{year:2010,ranking:2,team:Portsmouth,rank:20}
+{year:2015,ranking:2,team:Coventry,rank:61}
+{year:2014,ranking:2,team:Coventry,rank:62}
+{year:2013,ranking:2,team:Coventry,rank:69}
+{year:2012,ranking:2,team:Coventry,rank:43}
+{year:2011,ranking:2,team:Coventry,rank:38}
+{year:2010,ranking:2,team:Coventry,rank:39}
+{year:2015,ranking:2,team:Preston,rank:47}
+{year:2014,ranking:2,team:Preston,rank:49}
+{year:2013,ranking:2,team:Preston,rank:58}
+{year:2012,ranking:2,team:Preston,rank:59}
+{year:2011,ranking:2,team:Preston,rank:42}
+{year:2010,ranking:2,team:Preston,rank:37}
+{year:2015,ranking:2,team:Sheffield United,rank:49}
+{year:2014,ranking:2,team:Sheffield United,rank:51}
+{year:2013,ranking:2,team:Sheffield United,rank:49}
+{year:2012,ranking:2,team:Sheffield United,rank:47}
+{year:2011,ranking:2,team:Sheffield United,rank:43}
+{year:2010,ranking:2,team:Sheffield United,rank:28}
+{year:2015,ranking:2,team:Scunthorpe,rank:60}
+{year:2014,ranking:2,team:Scunthorpe,rank:70}
+{year:2013,ranking:2,team:Scunthorpe,rank:65}
+{year:2012,ranking:2,team:Scunthorpe,rank:62}
+{year:2011,ranking:2,team:Scunthorpe,rank:44}
+{year:2010,ranking:2,team:Scunthorpe,rank:40}
+{year:2015,ranking:2,team:Plymouth,rank:75}
+{year:2014,ranking:2,team:Plymouth,rank:78}
+{year:2013,ranking:2,team:Plymouth,rank:89}
+{year:2012,ranking:2,team:Plymouth,rank:89}
+{year:2011,ranking:2,team:Plymouth,rank:67}
+{year:2010,ranking:2,team:Plymouth,rank:43}
+{year:2015,ranking:3,team:Bayern,rank:1}
+{year:2014,ranking:3,team:Bayern,rank:1}
+{year:2013,ranking:3,team:Bayern,rank:1}
+{year:2012,ranking:3,team:Bayern,rank:2}
+{year:2011,ranking:3,team:Bayern,rank:3}
+{year:2010,ranking:3,team:Bayern,rank:1}
+{year:2015,ranking:3,team:Wolfsburg,rank:2}
+{year:2014,ranking:3,team:Wolfsburg,rank:5}
+{year:2013,ranking:3,team:Wolfsburg,rank:11}
+{year:2012,ranking:3,team:Wolfsburg,rank:8}
+{year:2011,ranking:3,team:Wolfsburg,rank:15}
+{year:2010,ranking:3,team:Wolfsburg,rank:8}
+{year:2015,ranking:3,team:Gladbach,rank:3}
+{year:2014,ranking:3,team:Gladbach,rank:6}
+{year:2013,ranking:3,team:Gladbach,rank:8}
+{year:2012,ranking:3,team:Gladbach,rank:4}
+{year:2011,ranking:3,team:Gladbach,rank:16}
+{year:2010,ranking:3,team:Gladbach,rank:12}
+{year:2015,ranking:3,team:Leverkusen,rank:4}
+{year:2014,ranking:3,team:Leverkusen,rank:4}
+{year:2013,ranking:3,team:Leverkusen,rank:3}
+{year:2012,ranking:3,team:Leverkusen,rank:5}
+{year:2011,ranking:3,team:Leverkusen,rank:2}
+{year:2010,ranking:3,team:Leverkusen,rank:4}
+{year:2015,ranking:3,team:Augsburg,rank:5}
+{year:2014,ranking:3,team:Augsburg,rank:8}
+{year:2013,ranking:3,team:Augsburg,rank:15}
+{year:2012,ranking:3,team:Augsburg,rank:14}
+{year:2011,ranking:3,team:Augsburg,rank:20}
+{year:2010,ranking:3,team:Augsburg,rank:21}
+{year:2015,ranking:3,team:Schalke,rank:6}
+{year:2014,ranking:3,team:Schalke,rank:3}
+{year:2013,ranking:3,team:Schalke,rank:4}
+{year:2012,ranking:3,team:Schalke,rank:3}
+{year:2011,ranking:3,team:Schalke,rank:14}
+{year:2010,ranking:3,team:Schalke,rank:2}
+{year:2015,ranking:3,team:Dortmund,rank:7}
+{year:2014,ranking:3,team:Dortmund,rank:2}
+{year:2013,ranking:3,team:Dortmund,rank:2}
+{year:2012,ranking:3,team:Dortmund,rank:1}
+{year:2011,ranking:3,team:Dortmund,rank:1}
+{year:2010,ranking:3,team:Dortmund,rank:5}
+{year:2015,ranking:3,team:Hoffenheim,rank:8}
+{year:2014,ranking:3,team:Hoffenheim,rank:9}
+{year:2013,ranking:3,team:Hoffenheim,rank:16}
+{year:2012,ranking:3,team:Hoffenheim,rank:11}
+{year:2011,ranking:3,team:Hoffenheim,rank:11}
+{year:2010,ranking:3,team:Hoffenheim,rank:11}
+{year:2015,ranking:3,team:Eintracht Frankfurt,rank:9}
+{year:2014,ranking:3,team:Eintracht Frankfurt,rank:13}
+{year:2013,ranking:3,team:Eintracht Frankfurt,rank:6}
+{year:2012,ranking:3,team:Eintracht Frankfurt,rank:20}
+{year:2011,ranking:3,team:Eintracht Frankfurt,rank:17}
+{year:2010,ranking:3,team:Eintracht Frankfurt,rank:10}
+{year:2015,ranking:3,team:Werder Bremen,rank:10}
+{year:2014,ranking:3,team:Werder Bremen,rank:12}
+{year:2013,ranking:3,team:Werder Bremen,rank:14}
+{year:2012,ranking:3,team:Werder Bremen,rank:9}
+{year:2011,ranking:3,team:Werder Bremen,rank:13}
+{year:2010,ranking:3,team:Werder Bremen,rank:3}
+{year:2015,ranking:3,team:Mainz,rank:11}
+{year:2014,ranking:3,team:Mainz,rank:7}
+{year:2013,ranking:3,team:Mainz,rank:13}
+{year:2012,ranking:3,team:Mainz,rank:13}
+{year:2011,ranking:3,team:Mainz,rank:5}
+{year:2010,ranking:3,team:Mainz,rank:9}
+{year:2015,ranking:3,team:Koln,rank:12}
+{year:2014,ranking:3,team:Koln,rank:19}
+{year:2013,ranking:3,team:Koln,rank:23}
+{year:2012,ranking:3,team:Koln,rank:17}
+{year:2011,ranking:3,team:Koln,rank:10}
+{year:2010,ranking:3,team:Koln,rank:13}
+{year:2015,ranking:3,team:Hannover,rank:13}
+{year:2014,ranking:3,team:Hannover,rank:10}
+{year:2013,ranking:3,team:Hannover,rank:9}
+{year:2012,ranking:3,team:Hannover,rank:7}
+{year:2011,ranking:3,team:Hannover,rank:4}
+{year:2010,ranking:3,team:Hannover,rank:15}
+{year:2015,ranking:3,team:Stuttgart,rank:14}
+{year:2014,ranking:3,team:Stuttgart,rank:15}
+{year:2013,ranking:3,team:Stuttgart,rank:12}
+{year:2012,ranking:3,team:Stuttgart,rank:6}
+{year:2011,ranking:3,team:Stuttgart,rank:12}
+{year:2010,ranking:3,team:Stuttgart,rank:6}
+{year:2015,ranking:3,team:Hertha,rank:15}
+{year:2014,ranking:3,team:Hertha,rank:11}
+{year:2013,ranking:3,team:Hertha,rank:19}
+{year:2012,ranking:3,team:Hertha,rank:16}
+{year:2011,ranking:3,team:Hertha,rank:19}
+{year:2010,ranking:3,team:Hertha,rank:18}
+{year:2015,ranking:3,team:Hamburger,rank:16}
+{year:2014,ranking:3,team:Hamburger,rank:16}
+{year:2013,ranking:3,team:Hamburger,rank:7}
+{year:2012,ranking:3,team:Hamburger,rank:15}
+{year:2011,ranking:3,team:Hamburger,rank:8}
+{year:2010,ranking:3,team:Hamburger,rank:7}
+{year:2015,ranking:3,team:Freiburg,rank:17}
+{year:2014,ranking:3,team:Freiburg,rank:14}
+{year:2013,ranking:3,team:Freiburg,rank:5}
+{year:2012,ranking:3,team:Freiburg,rank:12}
+{year:2011,ranking:3,team:Freiburg,rank:9}
+{year:2010,ranking:3,team:Freiburg,rank:14}
+{year:2015,ranking:3,team:Paderborn,rank:18}
+{year:2014,ranking:3,team:Paderborn,rank:20}
+{year:2013,ranking:3,team:Paderborn,rank:30}
+{year:2012,ranking:3,team:Paderborn,rank:23}
+{year:2011,ranking:3,team:Paderborn,rank:30}
+{year:2010,ranking:3,team:Paderborn,rank:23}
+{year:2015,ranking:3,team:Ingolstadt,rank:19}
+{year:2014,ranking:3,team:Ingolstadt,rank:30}
+{year:2013,ranking:3,team:Ingolstadt,rank:31}
+{year:2012,ranking:3,team:Ingolstadt,rank:30}
+{year:2011,ranking:3,team:Ingolstadt,rank:32}
+{year:2010,ranking:3,team:Ingolstadt,rank:39}
+{year:2015,ranking:3,team:Darmstadt,rank:20}
+{year:2014,ranking:3,team:Darmstadt,rank:39}
+{year:2013,ranking:3,team:Darmstadt,rank:54}
+{year:2012,ranking:3,team:Darmstadt,rank:50}
+{year:2011,ranking:3,team:Darmstadt,rank:59}
+{year:2010,ranking:3,team:Darmstadt,rank:98}
+{year:2015,ranking:3,team:Karlsruher,rank:21}
+{year:2014,ranking:3,team:Karlsruher,rank:23}
+{year:2013,ranking:3,team:Karlsruher,rank:37}
+{year:2012,ranking:3,team:Karlsruher,rank:34}
+{year:2011,ranking:3,team:Karlsruher,rank:33}
+{year:2010,ranking:3,team:Karlsruher,rank:28}
+{year:2015,ranking:3,team:Kaiserslautern,rank:22}
+{year:2014,ranking:3,team:Kaiserslautern,rank:22}
+{year:2013,ranking:3,team:Kaiserslautern,rank:21}
+{year:2012,ranking:3,team:Kaiserslautern,rank:18}
+{year:2011,ranking:3,team:Kaiserslautern,rank:7}
+{year:2010,ranking:3,team:Kaiserslautern,rank:19}
+{year:2015,ranking:3,team:Leipzig,rank:23}
+{year:2014,ranking:3,team:Leipzig,rank:38}
+{year:2013,ranking:3,team:Leipzig,rank:57}
+{year:2012,ranking:3,team:Leipzig,rank:63}
+{year:2011,ranking:3,team:Leipzig,rank:66}
+{year:2010,ranking:3,team:Leipzig,rank:111}
+{year:2015,ranking:3,team:Braunschweig,rank:24}
+{year:2014,ranking:3,team:Braunschweig,rank:18}
+{year:2013,ranking:3,team:Braunschweig,rank:20}
+{year:2012,ranking:3,team:Braunschweig,rank:26}
+{year:2011,ranking:3,team:Braunschweig,rank:37}
+{year:2010,ranking:3,team:Braunschweig,rank:40}
+{year:2015,ranking:3,team:Union Berlin,rank:25}
+{year:2014,ranking:3,team:Union Berlin,rank:27}
+{year:2013,ranking:3,team:Union Berlin,rank:25}
+{year:2012,ranking:3,team:Union Berlin,rank:25}
+{year:2011,ranking:3,team:Union Berlin,rank:29}
+{year:2010,ranking:3,team:Union Berlin,rank:30}
+{year:2015,ranking:3,team:Heidenheim,rank:26}
+{year:2014,ranking:3,team:Heidenheim,rank:37}
+{year:2013,ranking:3,team:Heidenheim,rank:41}
+{year:2012,ranking:3,team:Heidenheim,rank:40}
+{year:2011,ranking:3,team:Heidenheim,rank:45}
+{year:2010,ranking:3,team:Heidenheim,rank:42}
+{year:2015,ranking:3,team:Nurnberg,rank:27}
+{year:2014,ranking:3,team:Nurnberg,rank:17}
+{year:2013,ranking:3,team:Nurnberg,rank:10}
+{year:2012,ranking:3,team:Nurnberg,rank:10}
+{year:2011,ranking:3,team:Nurnberg,rank:6}
+{year:2010,ranking:3,team:Nurnberg,rank:16}
+{year:2015,ranking:3,team:Dusseldorf,rank:28}
+{year:2014,ranking:3,team:Dusseldorf,rank:24}
+{year:2013,ranking:3,team:Dusseldorf,rank:17}
+{year:2012,ranking:3,team:Dusseldorf,rank:21}
+{year:2011,ranking:3,team:Dusseldorf,rank:25}
+{year:2010,ranking:3,team:Dusseldorf,rank:22}
+{year:2015,ranking:3,team:Bochum,rank:29}
+{year:2014,ranking:3,team:Bochum,rank:33}
+{year:2013,ranking:3,team:Bochum,rank:32}
+{year:2012,ranking:3,team:Bochum,rank:29}
+{year:2011,ranking:3,team:Bochum,rank:21}
+{year:2010,ranking:3,team:Bochum,rank:17}
+{year:2015,ranking:3,team:Sandhausen,rank:30}
+{year:2014,ranking:3,team:Sandhausen,rank:30}
+{year:2013,ranking:3,team:Sandhausen,rank:35}
+{year:2012,ranking:3,team:Sandhausen,rank:37}
+{year:2011,ranking:3,team:Sandhausen,rank:48}
+{year:2010,ranking:3,team:Sandhausen,rank:50}
+{year:2015,ranking:3,team:FSV Frankfurt,rank:31}
+{year:2014,ranking:3,team:FSV Frankfurt,rank:31}
+{year:2013,ranking:3,team:FSV Frankfurt,rank:22}
+{year:2012,ranking:3,team:FSV Frankfurt,rank:31}
+{year:2011,ranking:3,team:FSV Frankfurt,rank:31}
+{year:2010,ranking:3,team:FSV Frankfurt,rank:33}
+{year:2015,ranking:3,team:Greuther Furth,rank:32}
+{year:2014,ranking:3,team:Greuther Furth,rank:21}
+{year:2013,ranking:3,team:Greuther Furth,rank:18}
+{year:2012,ranking:3,team:Greuther Furth,rank:19}
+{year:2011,ranking:3,team:Greuther Furth,rank:22}
+{year:2010,ranking:3,team:Greuther Furth,rank:29}
+{year:2015,ranking:3,team:St. Pauli,rank:33}
+{year:2014,ranking:3,team:St. Pauli,rank:26}
+{year:2013,ranking:3,team:St. Pauli,rank:28}
+{year:2012,ranking:3,team:St. Pauli,rank:22}
+{year:2011,ranking:3,team:St. Pauli,rank:18}
+{year:2010,ranking:3,team:St. Pauli,rank:20}
+{year:2015,ranking:3,team:1860 Munich,rank:34}
+{year:2014,ranking:3,team:1860 Munich,rank:25}
+{year:2013,ranking:3,team:1860 Munich,rank:24}
+{year:2012,ranking:3,team:1860 Munich,rank:24}
+{year:2011,ranking:3,team:1860 Munich,rank:27}
+{year:2010,ranking:3,team:1860 Munich,rank:26}
+{year:2015,ranking:3,team:Aue,rank:35}
+{year:2014,ranking:3,team:Aue,rank:32}
+{year:2013,ranking:3,team:Aue,rank:33}
+{year:2012,ranking:3,team:Aue,rank:33}
+{year:2011,ranking:3,team:Aue,rank:23}
+{year:2010,ranking:3,team:Aue,rank:38}
+{year:2015,ranking:3,team:Aalen,rank:36}
+{year:2014,ranking:3,team:Aalen,rank:29}
+{year:2013,ranking:3,team:Aalen,rank:27}
+{year:2012,ranking:3,team:Aalen,rank:38}
+{year:2011,ranking:3,team:Aalen,rank:52}
+{year:2010,ranking:3,team:Aalen,rank:58}
+{year:2015,ranking:3,team:Bielefeld,rank:37}
+{year:2014,ranking:3,team:Bielefeld,rank:34}
+{year:2013,ranking:3,team:Bielefeld,rank:38}
+{year:2012,ranking:3,team:Bielefeld,rank:49}
+{year:2011,ranking:3,team:Bielefeld,rank:36}
+{year:2010,ranking:3,team:Bielefeld,rank:25}
+{year:2015,ranking:3,team:Dresden,rank:42}
+{year:2014,ranking:3,team:Dresden,rank:35}
+{year:2013,ranking:3,team:Dresden,rank:34}
+{year:2012,ranking:3,team:Dresden,rank:27}
+{year:2011,ranking:3,team:Dresden,rank:39}
+{year:2010,ranking:3,team:Dresden,rank:48}
+{year:2015,ranking:3,team:Cottbus,rank:43}
+{year:2014,ranking:3,team:Cottbus,rank:36}
+{year:2013,ranking:3,team:Cottbus,rank:26}
+{year:2012,ranking:3,team:Cottbus,rank:32}
+{year:2011,ranking:3,team:Cottbus,rank:24}
+{year:2010,ranking:3,team:Cottbus,rank:27}
+{year:2015,ranking:3,team:Duisburg,rank:38}
+{year:2014,ranking:3,team:Duisburg,rank:43}
+{year:2013,ranking:3,team:Duisburg,rank:29}
+{year:2012,ranking:3,team:Duisburg,rank:28}
+{year:2011,ranking:3,team:Duisburg,rank:26}
+{year:2010,ranking:3,team:Duisburg,rank:24}
+{year:2015,ranking:3,team:Jahn Regensburg,rank:56}
+{year:2014,ranking:3,team:Jahn Regensburg,rank:47}
+{year:2013,ranking:3,team:Jahn Regensburg,rank:36}
+{year:2012,ranking:3,team:Jahn Regensburg,rank:39}
+{year:2011,ranking:3,team:Jahn Regensburg,rank:44}
+{year:2010,ranking:3,team:Jahn Regensburg,rank:52}
+{year:2015,ranking:3,team:Alemannia Aachen,rank:65}
+{year:2014,ranking:3,team:Alemannia Aachen,rank:117}
+{year:2013,ranking:3,team:Alemannia Aachen,rank:56}
+{year:2012,ranking:3,team:Alemannia Aachen,rank:35}
+{year:2011,ranking:3,team:Alemannia Aachen,rank:28}
+{year:2010,ranking:3,team:Alemannia Aachen,rank:31}
+{year:2015,ranking:3,team:Hansa Rostock,rank:53}
+{year:2014,ranking:3,team:Hansa Rostock,rank:49}
+{year:2013,ranking:3,team:Hansa Rostock,rank:48}
+{year:2012,ranking:3,team:Hansa Rostock,rank:36}
+{year:2011,ranking:3,team:Hansa Rostock,rank:38}
+{year:2010,ranking:3,team:Hansa Rostock,rank:34}
+{year:2015,ranking:3,team:Osnabruck,rank:47}
+{year:2014,ranking:3,team:Osnabruck,rank:41}
+{year:2013,ranking:3,team:Osnabruck,rank:39}
+{year:2012,ranking:3,team:Osnabruck,rank:43}
+{year:2011,ranking:3,team:Osnabruck,rank:34}
+{year:2010,ranking:3,team:Osnabruck,rank:37}
+{year:2015,ranking:3,team:Oberhausen,rank:72}
+{year:2014,ranking:3,team:Oberhausen,rank:69}
+{year:2013,ranking:3,team:Oberhausen,rank:94}
+{year:2012,ranking:3,team:Oberhausen,rank:55}
+{year:2011,ranking:3,team:Oberhausen,rank:35}
+{year:2010,ranking:3,team:Oberhausen,rank:32}
+{year:2015,ranking:3,team:Koblenz,rank:134}
+{year:2014,ranking:3,team:Koblenz,rank:122}
+{year:2013,ranking:3,team:Koblenz,rank:93}
+{year:2012,ranking:3,team:Koblenz,rank:108}
+{year:2011,ranking:3,team:Koblenz,rank:47}
+{year:2010,ranking:3,team:Koblenz,rank:35}
+{year:2015,ranking:3,team:Ahlen,rank:160}
+{year:2014,ranking:3,team:Ahlen,rank:265}
+{year:2013,ranking:3,team:Ahlen,rank:265}
+{year:2012,ranking:3,team:Ahlen,rank:267}
+{year:2011,ranking:3,team:Ahlen,rank:53}
+{year:2010,ranking:3,team:Ahlen,rank:36}
+{year:2015,ranking:3,team:Wehen Wiesbaden,rank:45}
+{year:2014,ranking:3,team:Wehen Wiesbaden,rank:40}
+{year:2013,ranking:3,team:Wehen Wiesbaden,rank:43}
+{year:2012,ranking:3,team:Wehen Wiesbaden,rank:52}
+{year:2011,ranking:3,team:Wehen Wiesbaden,rank:40}
+{year:2010,ranking:3,team:Wehen Wiesbaden,rank:51}
+{year:2015,ranking:4,team:Barcelona,rank:1}
+{year:2014,ranking:4,team:Barcelona,rank:2}
+{year:2013,ranking:4,team:Barcelona,rank:1}
+{year:2012,ranking:4,team:Barcelona,rank:2}
+{year:2011,ranking:4,team:Barcelona,rank:1}
+{year:2010,ranking:4,team:Barcelona,rank:1}
+{year:2015,ranking:4,team:Real Madrid,rank:2}
+{year:2014,ranking:4,team:Real Madrid,rank:3}
+{year:2013,ranking:4,team:Real Madrid,rank:2}
+{year:2012,ranking:4,team:Real Madrid,rank:1}
+{year:2011,ranking:4,team:Real Madrid,rank:2}
+{year:2010,ranking:4,team:Real Madrid,rank:2}
+{year:2015,ranking:4,team:Atletico Madrid,rank:3}
+{year:2014,ranking:4,team:Atletico Madrid,rank:1}
+{year:2013,ranking:4,team:Atletico Madrid,rank:3}
+{year:2012,ranking:4,team:Atletico Madrid,rank:5}
+{year:2011,ranking:4,team:Atletico Madrid,rank:7}
+{year:2010,ranking:4,team:Atletico Madrid,rank:9}
+{year:2015,ranking:4,team:Valencia,rank:4}
+{year:2014,ranking:4,team:Valencia,rank:8}
+{year:2013,ranking:4,team:Valencia,rank:5}
+{year:2012,ranking:4,team:Valencia,rank:3}
+{year:2011,ranking:4,team:Valencia,rank:3}
+{year:2010,ranking:4,team:Valencia,rank:3}
+{year:2015,ranking:4,team:Sevilla,rank:5}
+{year:2014,ranking:4,team:Sevilla,rank:5}
+{year:2013,ranking:4,team:Sevilla,rank:9}
+{year:2012,ranking:4,team:Sevilla,rank:9}
+{year:2011,ranking:4,team:Sevilla,rank:5}
+{year:2010,ranking:4,team:Sevilla,rank:4}
+{year:2015,ranking:4,team:Villarreal,rank:6}
+{year:2014,ranking:4,team:Villarreal,rank:6}
+{year:2013,ranking:4,team:Villarreal,rank:22}
+{year:2012,ranking:4,team:Villarreal,rank:18}
+{year:2011,ranking:4,team:Villarreal,rank:4}
+{year:2010,ranking:4,team:Villarreal,rank:7}
+{year:2015,ranking:4,team:Athletic Bilbao,rank:7}
+{year:2014,ranking:4,team:Athletic Bilbao,rank:4}
+{year:2013,ranking:4,team:Athletic Bilbao,rank:12}
+{year:2012,ranking:4,team:Athletic Bilbao,rank:10}
+{year:2011,ranking:4,team:Athletic Bilbao,rank:6}
+{year:2010,ranking:4,team:Athletic Bilbao,rank:8}
+{year:2015,ranking:4,team:Celta Vigo,rank:8}
+{year:2014,ranking:4,team:Celta Vigo,rank:9}
+{year:2013,ranking:4,team:Celta Vigo,rank:17}
+{year:2012,ranking:4,team:Celta Vigo,rank:22}
+{year:2011,ranking:4,team:Celta Vigo,rank:26}
+{year:2010,ranking:4,team:Celta Vigo,rank:32}
+{year:2015,ranking:4,team:Malaga,rank:9}
+{year:2014,ranking:4,team:Malaga,rank:11}
+{year:2013,ranking:4,team:Malaga,rank:6}
+{year:2012,ranking:4,team:Malaga,rank:4}
+{year:2011,ranking:4,team:Malaga,rank:11}
+{year:2010,ranking:4,team:Malaga,rank:17}
+{year:2015,ranking:4,team:Espanyol,rank:10}
+{year:2014,ranking:4,team:Espanyol,rank:14}
+{year:2013,ranking:4,team:Espanyol,rank:13}
+{year:2012,ranking:4,team:Espanyol,rank:14}
+{year:2011,ranking:4,team:Espanyol,rank:8}
+{year:2010,ranking:4,team:Espanyol,rank:11}
+{year:2015,ranking:4,team:Rayo Vallecano,rank:11}
+{year:2014,ranking:4,team:Rayo Vallecano,rank:12}
+{year:2013,ranking:4,team:Rayo Vallecano,rank:8}
+{year:2012,ranking:4,team:Rayo Vallecano,rank:15}
+{year:2011,ranking:4,team:Rayo Vallecano,rank:22}
+{year:2010,ranking:4,team:Rayo Vallecano,rank:31}
+{year:2015,ranking:4,team:Real Sociedad,rank:12}
+{year:2014,ranking:4,team:Real Sociedad,rank:7}
+{year:2013,ranking:4,team:Real Sociedad,rank:4}
+{year:2012,ranking:4,team:Real Sociedad,rank:12}
+{year:2011,ranking:4,team:Real Sociedad,rank:15}
+{year:2010,ranking:4,team:Real Sociedad,rank:21}
+{year:2015,ranking:4,team:Elche,rank:13}
+{year:2014,ranking:4,team:Elche,rank:16}
+{year:2013,ranking:4,team:Elche,rank:21}
+{year:2012,ranking:4,team:Elche,rank:31}
+{year:2011,ranking:4,team:Elche,rank:24}
+{year:2010,ranking:4,team:Elche,rank:26}
+{year:2015,ranking:4,team:Levante,rank:14}
+{year:2014,ranking:4,team:Levante,rank:10}
+{year:2013,ranking:4,team:Levante,rank:11}
+{year:2012,ranking:4,team:Levante,rank:6}
+{year:2011,ranking:4,team:Levante,rank:14}
+{year:2010,ranking:4,team:Levante,rank:23}
+{year:2015,ranking:4,team:Getafe,rank:15}
+{year:2014,ranking:4,team:Getafe,rank:13}
+{year:2013,ranking:4,team:Getafe,rank:10}
+{year:2012,ranking:4,team:Getafe,rank:11}
+{year:2011,ranking:4,team:Getafe,rank:16}
+{year:2010,ranking:4,team:Getafe,rank:6}
+{year:2015,ranking:4,team:La Corunia,rank:16}
+{year:2014,ranking:4,team:La Corunia,rank:22}
+{year:2013,ranking:4,team:La Corunia,rank:19}
+{year:2012,ranking:4,team:La Corunia,rank:21}
+{year:2011,ranking:4,team:La Corunia,rank:18}
+{year:2010,ranking:4,team:La Corunia,rank:10}
+{year:2015,ranking:4,team:Granada,rank:17}
+{year:2014,ranking:4,team:Granada,rank:15}
+{year:2013,ranking:4,team:Granada,rank:15}
+{year:2012,ranking:4,team:Granada,rank:17}
+{year:2011,ranking:4,team:Granada,rank:25}
+{year:2010,ranking:4,team:Granada,rank:44}
+{year:2015,ranking:4,team:Eibar,rank:18}
+{year:2014,ranking:4,team:Eibar,rank:21}
+{year:2013,ranking:4,team:Eibar,rank:48}
+{year:2012,ranking:4,team:Eibar,rank:53}
+{year:2011,ranking:4,team:Eibar,rank:45}
+{year:2010,ranking:4,team:Eibar,rank:50}
+{year:2015,ranking:4,team:Almeria,rank:19}
+{year:2014,ranking:4,team:Almeria,rank:17}
+{year:2013,ranking:4,team:Almeria,rank:23}
+{year:2012,ranking:4,team:Almeria,rank:27}
+{year:2011,ranking:4,team:Almeria,rank:20}
+{year:2010,ranking:4,team:Almeria,rank:13}
+{year:2015,ranking:4,team:Cordoba,rank:20}
+{year:2014,ranking:4,team:Cordoba,rank:27}
+{year:2013,ranking:4,team:Cordoba,rank:34}
+{year:2012,ranking:4,team:Cordoba,rank:26}
+{year:2011,ranking:4,team:Cordoba,rank:36}
+{year:2010,ranking:4,team:Cordoba,rank:30}
+{year:2015,ranking:4,team:Real Betis,rank:21}
+{year:2014,ranking:4,team:Real Betis,rank:20}
+{year:2013,ranking:4,team:Real Betis,rank:7}
+{year:2012,ranking:4,team:Real Betis,rank:13}
+{year:2011,ranking:4,team:Real Betis,rank:21}
+{year:2010,ranking:4,team:Real Betis,rank:24}
+{year:2015,ranking:4,team:Gijon,rank:22}
+{year:2014,ranking:4,team:Gijon,rank:25}
+{year:2013,ranking:4,team:Gijon,rank:30}
+{year:2012,ranking:4,team:Gijon,rank:19}
+{year:2011,ranking:4,team:Gijon,rank:10}
+{year:2010,ranking:4,team:Gijon,rank:15}
+{year:2015,ranking:4,team:Girona,rank:23}
+{year:2014,ranking:4,team:Girona,rank:35}
+{year:2013,ranking:4,team:Girona,rank:24}
+{year:2012,ranking:4,team:Girona,rank:35}
+{year:2011,ranking:4,team:Girona,rank:31}
+{year:2010,ranking:4,team:Girona,rank:34}
+{year:2015,ranking:4,team:Las Palmas,rank:24}
+{year:2014,ranking:4,team:Las Palmas,rank:26}
+{year:2013,ranking:4,team:Las Palmas,rank:26}
+{year:2012,ranking:4,team:Las Palmas,rank:29}
+{year:2011,ranking:4,team:Las Palmas,rank:35}
+{year:2010,ranking:4,team:Las Palmas,rank:37}
+{year:2015,ranking:4,team:Valladolid,rank:25}
+{year:2014,ranking:4,team:Valladolid,rank:19}
+{year:2013,ranking:4,team:Valladolid,rank:14}
+{year:2012,ranking:4,team:Valladolid,rank:23}
+{year:2011,ranking:4,team:Valladolid,rank:27}
+{year:2010,ranking:4,team:Valladolid,rank:18}
+{year:2015,ranking:4,team:Zaragoza,rank:26}
+{year:2014,ranking:4,team:Zaragoza,rank:34}
+{year:2013,ranking:4,team:Zaragoza,rank:20}
+{year:2012,ranking:4,team:Zaragoza,rank:16}
+{year:2011,ranking:4,team:Zaragoza,rank:13}
+{year:2010,ranking:4,team:Zaragoza,rank:14}
+{year:2015,ranking:4,team:Ponferradina,rank:27}
+{year:2014,ranking:4,team:Ponferradina,rank:36}
+{year:2013,ranking:4,team:Ponferradina,rank:27}
+{year:2012,ranking:4,team:Ponferradina,rank:47}
+{year:2011,ranking:4,team:Ponferradina,rank:41}
+{year:2010,ranking:4,team:Ponferradina,rank:45}
+{year:2015,ranking:4,team:Mirandes,rank:28}
+{year:2014,ranking:4,team:Mirandes,rank:39}
+{year:2013,ranking:4,team:Mirandes,rank:35}
+{year:2012,ranking:4,team:Mirandes,rank:43}
+{year:2011,ranking:4,team:Mirandes,rank:45}
+{year:2010,ranking:4,team:Mirandes,rank:92}
+{year:2015,ranking:4,team:Llagostera,rank:29}
+{year:2014,ranking:4,team:Llagostera,rank:46}
+{year:2013,ranking:4,team:Llagostera,rank:81}
+{year:2012,ranking:4,team:Llagostera,rank:60}
+{year:2011,ranking:4,team:Llagostera,rank:140}
+{year:2010,ranking:4,team:Llagostera,rank:243}
+{year:2015,ranking:4,team:Leganes,rank:30}
+{year:2014,ranking:4,team:Leganes,rank:44}
+{year:2013,ranking:4,team:Leganes,rank:45}
+{year:2012,ranking:4,team:Leganes,rank:90}
+{year:2011,ranking:4,team:Leganes,rank:56}
+{year:2010,ranking:4,team:Leganes,rank:60}
+{year:2015,ranking:4,team:Alcorcon,rank:31}
+{year:2014,ranking:4,team:Alcorcon,rank:29}
+{year:2013,ranking:4,team:Alcorcon,rank:25}
+{year:2012,ranking:4,team:Alcorcon,rank:24}
+{year:2011,ranking:4,team:Alcorcon,rank:29}
+{year:2010,ranking:4,team:Alcorcon,rank:46}
+{year:2015,ranking:4,team:Numancia,rank:32}
+{year:2014,ranking:4,team:Numancia,rank:33}
+{year:2013,ranking:4,team:Numancia,rank:32}
+{year:2012,ranking:4,team:Numancia,rank:30}
+{year:2011,ranking:4,team:Numancia,rank:30}
+{year:2010,ranking:4,team:Numancia,rank:28}
+{year:2015,ranking:4,team:Alaves,rank:33}
+{year:2014,ranking:4,team:Alaves,rank:38}
+{year:2013,ranking:4,team:Alaves,rank:43}
+{year:2012,ranking:4,team:Alaves,rank:66}
+{year:2011,ranking:4,team:Alaves,rank:53}
+{year:2010,ranking:4,team:Alaves,rank:60}
+{year:2015,ranking:4,team:Albacete,rank:34}
+{year:2014,ranking:4,team:Albacete,rank:43}
+{year:2013,ranking:4,team:Albacete,rank:54}
+{year:2012,ranking:4,team:Albacete,rank:57}
+{year:2011,ranking:4,team:Albacete,rank:42}
+{year:2010,ranking:4,team:Albacete,rank:35}
+{year:2015,ranking:4,team:Lugo,rank:35}
+{year:2014,ranking:4,team:Lugo,rank:32}
+{year:2013,ranking:4,team:Lugo,rank:31}
+{year:2012,ranking:4,team:Lugo,rank:54}
+{year:2011,ranking:4,team:Lugo,rank:44}
+{year:2010,ranking:4,team:Lugo,rank:69}
+{year:2015,ranking:4,team:Mallorca,rank:36}
+{year:2014,ranking:4,team:Mallorca,rank:37}
+{year:2013,ranking:4,team:Mallorca,rank:18}
+{year:2012,ranking:4,team:Mallorca,rank:8}
+{year:2011,ranking:4,team:Mallorca,rank:17}
+{year:2010,ranking:4,team:Mallorca,rank:5}
+{year:2015,ranking:4,team:Tenerife,rank:37}
+{year:2014,ranking:4,team:Tenerife,rank:31}
+{year:2013,ranking:4,team:Tenerife,rank:45}
+{year:2012,ranking:4,team:Tenerife,rank:50}
+{year:2011,ranking:4,team:Tenerife,rank:40}
+{year:2010,ranking:4,team:Tenerife,rank:19}
+{year:2015,ranking:4,team:Osasuna,rank:38}
+{year:2014,ranking:4,team:Osasuna,rank:18}
+{year:2013,ranking:4,team:Osasuna,rank:16}
+{year:2012,ranking:4,team:Osasuna,rank:7}
+{year:2011,ranking:4,team:Osasuna,rank:9}
+{year:2010,ranking:4,team:Osasuna,rank:12}
+{year:2015,ranking:4,team:Racing Santander,rank:39}
+{year:2014,ranking:4,team:Racing Santander,rank:45}
+{year:2013,ranking:4,team:Racing Santander,rank:40}
+{year:2012,ranking:4,team:Racing Santander,rank:20}
+{year:2011,ranking:4,team:Racing Santander,rank:12}
+{year:2010,ranking:4,team:Racing Santander,rank:16}
+{year:2015,ranking:4,team:Recreativo,rank:40}
+{year:2014,ranking:4,team:Recreativo,rank:28}
+{year:2013,ranking:4,team:Recreativo,rank:33}
+{year:2012,ranking:4,team:Recreativo,rank:37}
+{year:2011,ranking:4,team:Recreativo,rank:32}
+{year:2010,ranking:4,team:Recreativo,rank:29}
+{year:2015,ranking:4,team:Sabadell,rank:41}
+{year:2014,ranking:4,team:Sabadell,rank:30}
+{year:2013,ranking:4,team:Sabadell,rank:36}
+{year:2012,ranking:4,team:Sabadell,rank:39}
+{year:2011,ranking:4,team:Sabadell,rank:46}
+{year:2010,ranking:4,team:Sabadell,rank:82}
+{year:2015,ranking:4,team:Barcelona B,rank:42}
+{year:2014,ranking:4,team:Barcelona B,rank:23}
+{year:2013,ranking:4,team:Barcelona B,rank:29}
+{year:2012,ranking:4,team:Barcelona B,rank:28}
+{year:2011,ranking:4,team:Barcelona B,rank:23}
+{year:2010,ranking:4,team:Barcelona B,rank:47}
+{year:2015,ranking:4,team:Real Madrid B,rank:45}
+{year:2014,ranking:4,team:Real Madrid B,rank:40}
+{year:2013,ranking:4,team:Real Madrid B,rank:28}
+{year:2012,ranking:4,team:Real Madrid B,rank:44}
+{year:2011,ranking:4,team:Real Madrid B,rank:52}
+{year:2010,ranking:4,team:Real Madrid B,rank:71}
+{year:2015,ranking:4,team:Jaen,rank:86}
+{year:2014,ranking:4,team:Jaen,rank:41}
+{year:2013,ranking:4,team:Jaen,rank:46}
+{year:2012,ranking:4,team:Jaen,rank:55}
+{year:2011,ranking:4,team:Jaen,rank:72}
+{year:2010,ranking:4,team:Jaen,rank:52}
+{year:2015,ranking:4,team:Hercules,rank:56}
+{year:2014,ranking:4,team:Hercules,rank:42}
+{year:2013,ranking:4,team:Hercules,rank:37}
+{year:2012,ranking:4,team:Hercules,rank:25}
+{year:2011,ranking:4,team:Hercules,rank:19}
+{year:2010,ranking:4,team:Hercules,rank:22}
+{year:2015,ranking:4,team:Guadalajara,rank:55}
+{year:2014,ranking:4,team:Guadalajara,rank:59}
+{year:2013,ranking:4,team:Guadalajara,rank:38}
+{year:2012,ranking:4,team:Guadalajara,rank:36}
+{year:2011,ranking:4,team:Guadalajara,rank:48}
+{year:2010,ranking:4,team:Guadalajara,rank:54}
+{year:2015,ranking:4,team:Huesca,rank:46}
+{year:2014,ranking:4,team:Huesca,rank:68}
+{year:2013,ranking:4,team:Huesca,rank:41}
+{year:2012,ranking:4,team:Huesca,rank:33}
+{year:2011,ranking:4,team:Huesca,rank:34}
+{year:2010,ranking:4,team:Huesca,rank:33}
+{year:2015,ranking:4,team:Xerez,rank:1274}
+{year:2014,ranking:4,team:Xerez,rank:449}
+{year:2013,ranking:4,team:Xerez,rank:42}
+{year:2012,ranking:4,team:Xerez,rank:34}
+{year:2011,ranking:4,team:Xerez,rank:28}
+{year:2010,ranking:4,team:Xerez,rank:20}
+{year:2015,ranking:4,team:Villarreal B,rank:79}
+{year:2014,ranking:4,team:Villarreal B,rank:84}
+{year:2013,ranking:4,team:Villarreal B,rank:76}
+{year:2012,ranking:4,team:Villarreal B,rank:32}
+{year:2011,ranking:4,team:Villarreal B,rank:37}
+{year:2010,ranking:4,team:Villarreal B,rank:27}
+{year:2015,ranking:4,team:Cartagena,rank:105}
+{year:2014,ranking:4,team:Cartagena,rank:51}
+{year:2013,ranking:4,team:Cartagena,rank:50}
+{year:2012,ranking:4,team:Cartagena,rank:40}
+{year:2011,ranking:4,team:Cartagena,rank:33}
+{year:2010,ranking:4,team:Cartagena,rank:25}
+{year:2015,ranking:4,team:Alcoyano,rank:64}
+{year:2014,ranking:4,team:Alcoyano,rank:63}
+{year:2013,ranking:4,team:Alcoyano,rank:55}
+{year:2012,ranking:4,team:Alcoyano,rank:41}
+{year:2011,ranking:4,team:Alcoyano,rank:64}
+{year:2010,ranking:4,team:Alcoyano,rank:55}
+{year:2015,ranking:4,team:Gimnastic,rank:45}
+{year:2014,ranking:4,team:Gimnastic,rank:55}
+{year:2013,ranking:4,team:Gimnastic,rank:65}
+{year:2012,ranking:4,team:Gimnastic,rank:42}
+{year:2011,ranking:4,team:Gimnastic,rank:38}
+{year:2010,ranking:4,team:Gimnastic,rank:38}
+{year:2015,ranking:4,team:Salamanca,rank:-1}
+{year:2014,ranking:4,team:Salamanca,rank:-1}
+{year:2013,ranking:4,team:Salamanca,rank:72}
+{year:2012,ranking:4,team:Salamanca,rank:77}
+{year:2011,ranking:4,team:Salamanca,rank:39}
+{year:2010,ranking:4,team:Salamanca,rank:36}
+{year:2015,ranking:4,team:Cadiz,rank:44}
+{year:2014,ranking:4,team:Cadiz,rank:55}
+{year:2013,ranking:4,team:Cadiz,rank:91}
+{year:2012,ranking:4,team:Cadiz,rank:45}
+{year:2011,ranking:4,team:Cadiz,rank:55}
+{year:2010,ranking:4,team:Cadiz,rank:39}
+{year:2015,ranking:4,team:Murcia,rank:46}
+{year:2014,ranking:4,team:Murcia,rank:24}
+{year:2013,ranking:4,team:Murcia,rank:39}
+{year:2012,ranking:4,team:Murcia,rank:38}
+{year:2011,ranking:4,team:Murcia,rank:43}
+{year:2010,ranking:4,team:Murcia,rank:40}
+{year:2015,ranking:4,team:Real Union,rank:58}
+{year:2014,ranking:4,team:Real Union,rank:100}
+{year:2013,ranking:4,team:Real Union,rank:71}
+{year:2012,ranking:4,team:Real Union,rank:97}
+{year:2011,ranking:4,team:Real Union,rank:57}
+{year:2010,ranking:4,team:Real Union,rank:41}
+{year:2015,ranking:4,team:Castellon,rank:140}
+{year:2014,ranking:4,team:Castellon,rank:379}
+{year:2013,ranking:4,team:Castellon,rank:194}
+{year:2012,ranking:4,team:Castellon,rank:268}
+{year:2011,ranking:4,team:Castellon,rank:80}
+{year:2010,ranking:4,team:Castellon,rank:42}
+{year:2015,ranking:4,team:Alicante,rank:-1}
+{year:2014,ranking:4,team:Alicante,rank:922}
+{year:2013,ranking:4,team:Alicante,rank:1626}
+{year:2012,ranking:4,team:Alicante,rank:460}
+{year:2011,ranking:4,team:Alicante,rank:77}
+{year:2010,ranking:4,team:Alicante,rank:93}
+{year:2015,ranking:4,team:Sevilla B,rank:98}
+{year:2014,ranking:4,team:Sevilla B,rank:98}
+{year:2013,ranking:4,team:Sevilla B,rank:96}
+{year:2012,ranking:4,team:Sevilla B,rank:79}
+{year:2011,ranking:4,team:Sevilla B,rank:47}
+{year:2010,ranking:4,team:Sevilla B,rank:99}
+{year:2015,ranking:5,team:Juventus,rank:1}
+{year:2014,ranking:5,team:Juventus,rank:1}
+{year:2013,ranking:5,team:Juventus,rank:1}
+{year:2012,ranking:5,team:Juventus,rank:1}
+{year:2011,ranking:5,team:Juventus,rank:7}
+{year:2010,ranking:5,team:Juventus,rank:7}
+{year:2015,ranking:5,team:Roma,rank:2}
+{year:2014,ranking:5,team:Roma,rank:2}
+{year:2013,ranking:5,team:Roma,rank:6}
+{year:2012,ranking:5,team:Roma,rank:7}
+{year:2011,ranking:5,team:Roma,rank:6}
+{year:2010,ranking:5,team:Roma,rank:2}
+{year:2015,ranking:5,team:Lazio,rank:3}
+{year:2014,ranking:5,team:Lazio,rank:9}
+{year:2013,ranking:5,team:Lazio,rank:7}
+{year:2012,ranking:5,team:Lazio,rank:4}
+{year:2011,ranking:5,team:Lazio,rank:5}
+{year:2010,ranking:5,team:Lazio,rank:12}
+{year:2015,ranking:5,team:Fiorentina,rank:4}
+{year:2014,ranking:5,team:Fiorentina,rank:4}
+{year:2013,ranking:5,team:Fiorentina,rank:4}
+{year:2012,ranking:5,team:Fiorentina,rank:13}
+{year:2011,ranking:5,team:Fiorentina,rank:9}
+{year:2010,ranking:5,team:Fiorentina,rank:11}
+{year:2015,ranking:5,team:Napoli,rank:5}
+{year:2014,ranking:5,team:Napoli,rank:3}
+{year:2013,ranking:5,team:Napoli,rank:2}
+{year:2012,ranking:5,team:Napoli,rank:5}
+{year:2011,ranking:5,team:Napoli,rank:3}
+{year:2010,ranking:5,team:Napoli,rank:6}
+{year:2015,ranking:5,team:Genoa,rank:6}
+{year:2014,ranking:5,team:Genoa,rank:14}
+{year:2013,ranking:5,team:Genoa,rank:17}
+{year:2012,ranking:5,team:Genoa,rank:17}
+{year:2011,ranking:5,team:Genoa,rank:10}
+{year:2010,ranking:5,team:Genoa,rank:9}
+{year:2015,ranking:5,team:Sampdoria,rank:7}
+{year:2014,ranking:5,team:Sampdoria,rank:12}
+{year:2013,ranking:5,team:Sampdoria,rank:14}
+{year:2012,ranking:5,team:Sampdoria,rank:26}
+{year:2011,ranking:5,team:Sampdoria,rank:18}
+{year:2010,ranking:5,team:Sampdoria,rank:4}
+{year:2015,ranking:5,team:Inter Milan,rank:8}
+{year:2014,ranking:5,team:Inter Milan,rank:5}
+{year:2013,ranking:5,team:Inter Milan,rank:9}
+{year:2012,ranking:5,team:Inter Milan,rank:6}
+{year:2011,ranking:5,team:Inter Milan,rank:2}
+{year:2010,ranking:5,team:Inter Milan,rank:1}
+{year:2015,ranking:5,team:Torino,rank:9}
+{year:2014,ranking:5,team:Torino,rank:7}
+{year:2013,ranking:5,team:Torino,rank:16}
+{year:2012,ranking:5,team:Torino,rank:22}
+{year:2011,ranking:5,team:Torino,rank:28}
+{year:2010,ranking:5,team:Torino,rank:25}
+{year:2015,ranking:5,team:Milan,rank:10}
+{year:2014,ranking:5,team:Milan,rank:8}
+{year:2013,ranking:5,team:Milan,rank:3}
+{year:2012,ranking:5,team:Milan,rank:2}
+{year:2011,ranking:5,team:Milan,rank:1}
+{year:2010,ranking:5,team:Milan,rank:3}
+{year:2015,ranking:5,team:Palermo,rank:11}
+{year:2014,ranking:5,team:Palermo,rank:21}
+{year:2013,ranking:5,team:Palermo,rank:18}
+{year:2012,ranking:5,team:Palermo,rank:16}
+{year:2011,ranking:5,team:Palermo,rank:8}
+{year:2010,ranking:5,team:Palermo,rank:5}
+{year:2015,ranking:5,team:Sassuolo,rank:12}
+{year:2014,ranking:5,team:Sassuolo,rank:17}
+{year:2013,ranking:5,team:Sassuolo,rank:21}
+{year:2012,ranking:5,team:Sassuolo,rank:23}
+{year:2011,ranking:5,team:Sassuolo,rank:36}
+{year:2010,ranking:5,team:Sassuolo,rank:24}
+{year:2015,ranking:5,team:Verona,rank:13}
+{year:2014,ranking:5,team:Verona,rank:10}
+{year:2013,ranking:5,team:Verona,rank:22}
+{year:2012,ranking:5,team:Verona,rank:24}
+{year:2011,ranking:5,team:Verona,rank:50}
+{year:2010,ranking:5,team:Verona,rank:48}
+{year:2015,ranking:5,team:Chievo,rank:14}
+{year:2014,ranking:5,team:Chievo,rank:16}
+{year:2013,ranking:5,team:Chievo,rank:12}
+{year:2012,ranking:5,team:Chievo,rank:10}
+{year:2011,ranking:5,team:Chievo,rank:11}
+{year:2010,ranking:5,team:Chievo,rank:14}
+{year:2015,ranking:5,team:Empoli,rank:15}
+{year:2014,ranking:5,team:Empoli,rank:22}
+{year:2013,ranking:5,team:Empoli,rank:24}
+{year:2012,ranking:5,team:Empoli,rank:38}
+{year:2011,ranking:5,team:Empoli,rank:29}
+{year:2010,ranking:5,team:Empoli,rank:30}
+{year:2015,ranking:5,team:Udinese,rank:16}
+{year:2014,ranking:5,team:Udinese,rank:13}
+{year:2013,ranking:5,team:Udinese,rank:5}
+{year:2012,ranking:5,team:Udinese,rank:3}
+{year:2011,ranking:5,team:Udinese,rank:4}
+{year:2010,ranking:5,team:Udinese,rank:15}
+{year:2015,ranking:5,team:Atalanta,rank:17}
+{year:2014,ranking:5,team:Atalanta,rank:11}
+{year:2013,ranking:5,team:Atalanta,rank:15}
+{year:2012,ranking:5,team:Atalanta,rank:12}
+{year:2011,ranking:5,team:Atalanta,rank:21}
+{year:2010,ranking:5,team:Atalanta,rank:18}
+{year:2015,ranking:5,team:Cagliari,rank:18}
+{year:2014,ranking:5,team:Cagliari,rank:15}
+{year:2013,ranking:5,team:Cagliari,rank:11}
+{year:2012,ranking:5,team:Cagliari,rank:15}
+{year:2011,ranking:5,team:Cagliari,rank:14}
+{year:2010,ranking:5,team:Cagliari,rank:16}
+{year:2015,ranking:5,team:Cesena,rank:19}
+{year:2014,ranking:5,team:Cesena,rank:24}
+{year:2013,ranking:5,team:Cesena,rank:34}
+{year:2012,ranking:5,team:Cesena,rank:20}
+{year:2011,ranking:5,team:Cesena,rank:15}
+{year:2010,ranking:5,team:Cesena,rank:22}
+{year:2015,ranking:5,team:Parma,rank:20}
+{year:2014,ranking:5,team:Parma,rank:6}
+{year:2013,ranking:5,team:Parma,rank:10}
+{year:2012,ranking:5,team:Parma,rank:8}
+{year:2011,ranking:5,team:Parma,rank:12}
+{year:2010,ranking:5,team:Parma,rank:8}
+{year:2015,ranking:5,team:Carpi,rank:21}
+{year:2014,ranking:5,team:Carpi,rank:32}
+{year:2013,ranking:5,team:Carpi,rank:48}
+{year:2012,ranking:5,team:Carpi,rank:47}
+{year:2011,ranking:5,team:Carpi,rank:80}
+{year:2010,ranking:5,team:Carpi,rank:148}
+{year:2015,ranking:5,team:Frosinone,rank:22}
+{year:2014,ranking:5,team:Frosinone,rank:45}
+{year:2013,ranking:5,team:Frosinone,rank:56}
+{year:2012,ranking:5,team:Frosinone,rank:59}
+{year:2011,ranking:5,team:Frosinone,rank:42}
+{year:2010,ranking:5,team:Frosinone,rank:36}
+{year:2015,ranking:5,team:Vicenza,rank:23}
+{year:2014,ranking:5,team:Vicenza,rank:52}
+{year:2013,ranking:5,team:Vicenza,rank:39}
+{year:2012,ranking:5,team:Vicenza,rank:39}
+{year:2011,ranking:5,team:Vicenza,rank:32}
+{year:2010,ranking:5,team:Vicenza,rank:34}
+{year:2015,ranking:5,team:Bologna,rank:24}
+{year:2014,ranking:5,team:Bologna,rank:19}
+{year:2013,ranking:5,team:Bologna,rank:13}
+{year:2012,ranking:5,team:Bologna,rank:9}
+{year:2011,ranking:5,team:Bologna,rank:16}
+{year:2010,ranking:5,team:Bologna,rank:17}
+{year:2015,ranking:5,team:Spezia,rank:25}
+{year:2014,ranking:5,team:Spezia,rank:28}
+{year:2013,ranking:5,team:Spezia,rank:33}
+{year:2012,ranking:5,team:Spezia,rank:44}
+{year:2011,ranking:5,team:Spezia,rank:52}
+{year:2010,ranking:5,team:Spezia,rank:83}
+{year:2015,ranking:5,team:Perugia,rank:26}
+{year:2014,ranking:5,team:Perugia,rank:43}
+{year:2013,ranking:5,team:Perugia,rank:45}
+{year:2012,ranking:5,team:Perugia,rank:79}
+{year:2011,ranking:5,team:Perugia,rank:130}
+{year:2010,ranking:5,team:Perugia,rank:64}
+{year:2015,ranking:5,team:Pescara,rank:27}
+{year:2014,ranking:5,team:Pescara,rank:35}
+{year:2013,ranking:5,team:Pescara,rank:20}
+{year:2012,ranking:5,team:Pescara,rank:21}
+{year:2011,ranking:5,team:Pescara,rank:33}
+{year:2010,ranking:5,team:Pescara,rank:46}
+{year:2015,ranking:5,team:Avellino,rank:28}
+{year:2014,ranking:5,team:Avellino,rank:31}
+{year:2013,ranking:5,team:Avellino,rank:44}
+{year:2012,ranking:5,team:Avellino,rank:62}
+{year:2011,ranking:5,team:Avellino,rank:86}
+{year:2010,ranking:5,team:Avellino,rank:169}
+{year:2015,ranking:5,team:Livorno,rank:29}
+{year:2014,ranking:5,team:Livorno,rank:20}
+{year:2013,ranking:5,team:Livorno,rank:23}
+{year:2012,ranking:5,team:Livorno,rank:37}
+{year:2011,ranking:5,team:Livorno,rank:27}
+{year:2010,ranking:5,team:Livorno,rank:20}
+{year:2015,ranking:5,team:Bari,rank:30}
+{year:2014,ranking:5,team:Bari,rank:27}
+{year:2013,ranking:5,team:Bari,rank:30}
+{year:2012,ranking:5,team:Bari,rank:33}
+{year:2011,ranking:5,team:Bari,rank:20}
+{year:2010,ranking:5,team:Bari,rank:10}
+{year:2015,ranking:5,team:Trapani,rank:31}
+{year:2014,ranking:5,team:Trapani,rank:34}
+{year:2013,ranking:5,team:Trapani,rank:29}
+{year:2012,ranking:5,team:Trapani,rank:46}
+{year:2011,ranking:5,team:Trapani,rank:83}
+{year:2010,ranking:5,team:Trapani,rank:144}
+{year:2015,ranking:5,team:Ternana,rank:32}
+{year:2014,ranking:5,team:Ternana,rank:36}
+{year:2013,ranking:5,team:Ternana,rank:29}
+{year:2012,ranking:5,team:Ternana,rank:43}
+{year:2011,ranking:5,team:Ternana,rank:71}
+{year:2010,ranking:5,team:Ternana,rank:54}
+{year:2015,ranking:5,team:Latina,rank:33}
+{year:2014,ranking:5,team:Latina,rank:23}
+{year:2013,ranking:5,team:Latina,rank:47}
+{year:2012,ranking:5,team:Latina,rank:73}
+{year:2011,ranking:5,team:Latina,rank:79}
+{year:2010,ranking:5,team:Latina,rank:209}
+{year:2015,ranking:5,team:Virtus Lanciano,rank:34}
+{year:2014,ranking:5,team:Virtus Lanciano,rank:30}
+{year:2013,ranking:5,team:Virtus Lanciano,rank:38}
+{year:2012,ranking:5,team:Virtus Lanciano,rank:50}
+{year:2011,ranking:5,team:Virtus Lanciano,rank:58}
+{year:2010,ranking:5,team:Virtus Lanciano,rank:59}
+{year:2015,ranking:5,team:Catania,rank:35}
+{year:2014,ranking:5,team:Catania,rank:18}
+{year:2013,ranking:5,team:Catania,rank:8}
+{year:2012,ranking:5,team:Catania,rank:11}
+{year:2011,ranking:5,team:Catania,rank:13}
+{year:2010,ranking:5,team:Catania,rank:13}
+{year:2015,ranking:5,team:Pro Vercelli,rank:36}
+{year:2014,ranking:5,team:Pro Vercelli,rank:46}
+{year:2013,ranking:5,team:Pro Vercelli,rank:41}
+{year:2012,ranking:5,team:Pro Vercelli,rank:51}
+{year:2011,ranking:5,team:Pro Vercelli,rank:87}
+{year:2010,ranking:5,team:Pro Vercelli,rank:113}
+{year:2015,ranking:5,team:Crotone,rank:37}
+{year:2014,ranking:5,team:Crotone,rank:26}
+{year:2013,ranking:5,team:Crotone,rank:32}
+{year:2012,ranking:5,team:Crotone,rank:31}
+{year:2011,ranking:5,team:Crotone,rank:31}
+{year:2010,ranking:5,team:Crotone,rank:28}
+{year:2015,ranking:5,team:Modena,rank:38}
+{year:2014,ranking:5,team:Modena,rank:25}
+{year:2013,ranking:5,team:Modena,rank:28}
+{year:2012,ranking:5,team:Modena,rank:32}
+{year:2011,ranking:5,team:Modena,rank:30}
+{year:2010,ranking:5,team:Modena,rank:32}
+{year:2015,ranking:5,team:Virtus Entella,rank:39}
+{year:2014,ranking:5,team:Virtus Entella,rank:44}
+{year:2013,ranking:5,team:Virtus Entella,rank:52}
+{year:2012,ranking:5,team:Virtus Entella,rank:88}
+{year:2011,ranking:5,team:Virtus Entella,rank:118}
+{year:2010,ranking:5,team:Virtus Entella,rank:143}
+{year:2015,ranking:5,team:Cittadella,rank:40}
+{year:2014,ranking:5,team:Cittadella,rank:37}
+{year:2013,ranking:5,team:Cittadella,rank:35}
+{year:2012,ranking:5,team:Cittadella,rank:36}
+{year:2011,ranking:5,team:Cittadella,rank:34}
+{year:2010,ranking:5,team:Cittadella,rank:26}
+{year:2015,ranking:5,team:Brescia,rank:41}
+{year:2014,ranking:5,team:Brescia,rank:33}
+{year:2013,ranking:5,team:Brescia,rank:26}
+{year:2012,ranking:5,team:Brescia,rank:28}
+{year:2011,ranking:5,team:Brescia,rank:19}
+{year:2010,ranking:5,team:Brescia,rank:23}
+{year:2015,ranking:5,team:Varese,rank:42}
+{year:2014,ranking:5,team:Varese,rank:38}
+{year:2013,ranking:5,team:Varese,rank:27}
+{year:2012,ranking:5,team:Varese,rank:25}
+{year:2011,ranking:5,team:Varese,rank:24}
+{year:2010,ranking:5,team:Varese,rank:45}
+{year:2015,ranking:5,team:Novara,rank:45}
+{year:2014,ranking:5,team:Novara,rank:39}
+{year:2013,ranking:5,team:Novara,rank:25}
+{year:2012,ranking:5,team:Novara,rank:19}
+{year:2011,ranking:5,team:Novara,rank:23}
+{year:2010,ranking:5,team:Novara,rank:43}
+{year:2015,ranking:5,team:Padova,rank:103}
+{year:2014,ranking:5,team:Padova,rank:40}
+{year:2013,ranking:5,team:Padova,rank:31}
+{year:2012,ranking:5,team:Padova,rank:27}
+{year:2011,ranking:5,team:Padova,rank:25}
+{year:2010,ranking:5,team:Padova,rank:39}
+{year:2015,ranking:5,team:Reggina,rank:99}
+{year:2014,ranking:5,team:Reggina,rank:41}
+{year:2013,ranking:5,team:Reggina,rank:37}
+{year:2012,ranking:5,team:Reggina,rank:30}
+{year:2011,ranking:5,team:Reggina,rank:26}
+{year:2010,ranking:5,team:Reggina,rank:33}
+{year:2015,ranking:5,team:Juve Stabia,rank:49}
+{year:2014,ranking:5,team:Juve Stabia,rank:42}
+{year:2013,ranking:5,team:Juve Stabia,rank:36}
+{year:2012,ranking:5,team:Juve Stabia,rank:29}
+{year:2011,ranking:5,team:Juve Stabia,rank:51}
+{year:2010,ranking:5,team:Juve Stabia,rank:79}
+{year:2015,ranking:5,team:Ascoli,rank:48}
+{year:2014,ranking:5,team:Ascoli,rank:72}
+{year:2013,ranking:5,team:Ascoli,rank:40}
+{year:2012,ranking:5,team:Ascoli,rank:35}
+{year:2011,ranking:5,team:Ascoli,rank:37}
+{year:2010,ranking:5,team:Ascoli,rank:29}
+{year:2015,ranking:5,team:Grosseto,rank:74}
+{year:2014,ranking:5,team:Grosseto,rank:63}
+{year:2013,ranking:5,team:Grosseto,rank:42}
+{year:2012,ranking:5,team:Grosseto,rank:34}
+{year:2011,ranking:5,team:Grosseto,rank:35}
+{year:2010,ranking:5,team:Grosseto,rank:27}
+{year:2015,ranking:5,team:Nocerina,rank:631}
+{year:2014,ranking:5,team:Nocerina,rank:75}
+{year:2013,ranking:5,team:Nocerina,rank:49}
+{year:2012,ranking:5,team:Nocerina,rank:40}
+{year:2011,ranking:5,team:Nocerina,rank:43}
+{year:2010,ranking:5,team:Nocerina,rank:117}
+{year:2015,ranking:5,team:Gubbio,rank:88}
+{year:2014,ranking:5,team:Gubbio,rank:65}
+{year:2013,ranking:5,team:Gubbio,rank:58}
+{year:2012,ranking:5,team:Gubbio,rank:41}
+{year:2011,ranking:5,team:Gubbio,rank:44}
+{year:2010,ranking:5,team:Gubbio,rank:87}
+{year:2015,ranking:5,team:AlbinoLeffe,rank:103}
+{year:2014,ranking:5,team:AlbinoLeffe,rank:56}
+{year:2013,ranking:5,team:AlbinoLeffe,rank:53}
+{year:2012,ranking:5,team:AlbinoLeffe,rank:42}
+{year:2011,ranking:5,team:AlbinoLeffe,rank:38}
+{year:2010,ranking:5,team:AlbinoLeffe,rank:31}
+{year:2015,ranking:5,team:Piacenza,rank:131}
+{year:2014,ranking:5,team:Piacenza,rank:138}
+{year:2013,ranking:5,team:Piacenza,rank:-1}
+{year:2012,ranking:5,team:Piacenza,rank:75}
+{year:2011,ranking:5,team:Piacenza,rank:39}
+{year:2010,ranking:5,team:Piacenza,rank:35}
+{year:2015,ranking:5,team:Triestina,rank:234}
+{year:2014,ranking:5,team:Triestina,rank:198}
+{year:2013,ranking:5,team:Triestina,rank:-1}
+{year:2012,ranking:5,team:Triestina,rank:71}
+{year:2011,ranking:5,team:Triestina,rank:40}
+{year:2010,ranking:5,team:Triestina,rank:38}
+{year:2015,ranking:5,team:Portogruaro,rank:1016}
+{year:2014,ranking:5,team:Portogruaro,rank:1181}
+{year:2013,ranking:5,team:Portogruaro,rank:67}
+{year:2012,ranking:5,team:Portogruaro,rank:61}
+{year:2011,ranking:5,team:Portogruaro,rank:41}
+{year:2010,ranking:5,team:Portogruaro,rank:44}
+{year:2015,ranking:5,team:Ancona,rank:59}
+{year:2014,ranking:5,team:Ancona,rank:115}
+{year:2013,ranking:5,team:Ancona,rank:168}
+{year:2012,ranking:5,team:Ancona,rank:138}
+{year:2011,ranking:5,team:Ancona,rank:295}
+{year:2010,ranking:5,team:Ancona,rank:37}
+{year:2015,ranking:5,team:Mantova,rank:79}
+{year:2014,ranking:5,team:Mantova,rank:90}
+{year:2013,ranking:5,team:Mantova,rank:92}
+{year:2012,ranking:5,team:Mantova,rank:109}
+{year:2011,ranking:5,team:Mantova,rank:120}
+{year:2010,ranking:5,team:Mantova,rank:40}
+{year:2015,ranking:5,team:Gallipoli,rank:190}
+{year:2014,ranking:5,team:Gallipoli,rank:279}
+{year:2013,ranking:5,team:Gallipoli,rank:447}
+{year:2012,ranking:5,team:Gallipoli,rank:898}
+{year:2011,ranking:5,team:Gallipoli,rank:925}
+{year:2010,ranking:5,team:Gallipoli,rank:41}
+{year:2015,ranking:5,team:Salernitana,rank:43}
+{year:2014,ranking:5,team:Salernitana,rank:59}
+{year:2013,ranking:5,team:Salernitana,rank:76}
+{year:2012,ranking:5,team:Salernitana,rank:126}
+{year:2011,ranking:5,team:Salernitana,rank:48}
+{year:2010,ranking:5,team:Salernitana,rank:42}
+{year:2015,ranking:5,team:Rimini,rank:106}
+{year:2014,ranking:5,team:Rimini,rank:100}
+{year:2013,ranking:5,team:Rimini,rank:103}
+{year:2012,ranking:5,team:Rimini,rank:90}
+{year:2011,ranking:5,team:Rimini,rank:139}
+{year:2010,ranking:5,team:Rimini,rank:50}
+{year:2015,ranking:5,team:Pisa,rank:57}
+{year:2014,ranking:5,team:Pisa,rank:53}
+{year:2013,ranking:5,team:Pisa,rank:51}
+{year:2012,ranking:5,team:Pisa,rank:56}
+{year:2011,ranking:5,team:Pisa,rank:61}
+{year:2010,ranking:5,team:Pisa,rank:137}
+{year:2015,ranking:1,team:Real Madrid,rank:1}
+{year:2015,ranking:1,team:Barcelona,rank:2}
+{year:2015,ranking:1,team:Bayern Munich,rank:3}
+{year:2015,ranking:1,team:Chelsea,rank:4}
+{year:2015,ranking:1,team:Atletico Madrid,rank:5}
+{year:2015,ranking:1,team:Benfica,rank:6}
+{year:2015,ranking:1,team:Schalke,rank:7}
+{year:2015,ranking:1,team:Porto,rank:8}
+{year:2015,ranking:1,team:Arsenal,rank:9}
+{year:2015,ranking:1,team:Manchester United,rank:10}
+{year:2015,ranking:1,team:PSG,rank:11}
+{year:2015,ranking:1,team:Valencia,rank:12}
+{year:2015,ranking:1,team:Dortmund,rank:13}
+{year:2015,ranking:1,team:Juventus,rank:14}
+{year:2015,ranking:1,team:Zenit,rank:15}
+{year:2015,ranking:1,team:Leverkusen,rank:16}
+{year:2015,ranking:1,team:Manchester City,rank:17}
+{year:2015,ranking:1,team:Shakhtar Donetsk,rank:18}
+{year:2015,ranking:1,team:Basel,rank:19}
+{year:2015,ranking:1,team:Napoli,rank:20}
+{year:2015,ranking:1,team:Tottenham,rank:21}
+{year:2015,ranking:1,team:Milan,rank:22}
+{year:2015,ranking:1,team:Sevilla,rank:23}
+{year:2015,ranking:1,team:Inter Milan,rank:24}
+{year:2015,ranking:1,team:Lyon,rank:25}
+{year:2015,ranking:1,team:Ajax,rank:26}
+{year:2015,ranking:1,team:Dynamo Kiev,rank:27}
+{year:2015,ranking:1,team:Olympiakos,rank:28}
+{year:2015,ranking:1,team:Villarreal,rank:29}
+{year:2015,ranking:1,team:PSV,rank:30}
+{year:2015,ranking:1,team:Rubin Kazan,rank:31}
+{year:2015,ranking:1,team:Athletic Bilbao,rank:32}
+{year:2015,ranking:1,team:Sporting,rank:33}
+{year:2015,ranking:1,team:CSKA Moscow,rank:34}
+{year:2015,ranking:1,team:Marseille,rank:35}
+{year:2015,ranking:1,team:Dnipro Dnipropetrovsk,rank:36}
+{year:2015,ranking:1,team:Braga,rank:37}
+{year:2015,ranking:1,team:Galatasaray,rank:38}
+{year:2015,ranking:1,team:Fiorentina,rank:39}
+{year:2015,ranking:1,team:Lazio,rank:40}
+{year:2015,ranking:1,team:Anderlecht,rank:41}
+{year:2015,ranking:1,team:Liverpool,rank:42}
+{year:2015,ranking:1,team:Metalist Kharkiv,rank:43}
+{year:2015,ranking:1,team:AZ,rank:44}
+{year:2015,ranking:1,team:Twente,rank:45}
+{year:2015,ranking:1,team:Roma,rank:46}
+{year:2015,ranking:1,team:Salzburg,rank:47}
+{year:2015,ranking:1,team:Malaga,rank:48}
+{year:2015,ranking:1,team:Hannover,rank:49}
+{year:2015,ranking:1,team:Viktoria Plzen,rank:50}
+{year:2015,ranking:1,team:Club Brugge,rank:51}
+{year:2015,ranking:1,team:Copenhagen,rank:52}
+{year:2015,ranking:1,team:PAOK,rank:53}
+{year:2015,ranking:1,team:Steaua,rank:54}
+{year:2015,ranking:1,team:Celtic,rank:55}
+{year:2015,ranking:1,team:Spartak Moscow,rank:56}
+{year:2015,ranking:1,team:Genk,rank:57}
+{year:2015,ranking:1,team:Besiktas,rank:58}
+{year:2015,ranking:1,team:Trabzonspor,rank:59}
+{year:2015,ranking:1,team:Lille,rank:60}
+{year:2015,ranking:1,team:Stuttgart,rank:61}
+{year:2015,ranking:1,team:APOEL,rank:62}
+{year:2015,ranking:1,team:BATE,rank:63}
+{year:2015,ranking:1,team:Gladbach,rank:64}
+{year:2015,ranking:1,team:Levante,rank:65}
+{year:2015,ranking:1,team:Real Betis,rank:66}
+{year:2015,ranking:1,team:Wolfsburg,rank:67}
+{year:2015,ranking:1,team:Monaco,rank:68}
